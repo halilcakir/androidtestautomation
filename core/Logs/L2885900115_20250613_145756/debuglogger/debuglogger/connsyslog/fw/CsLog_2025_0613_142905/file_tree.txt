@@ -1,0 +1,1 @@
+/data/debuglogger/connsyslog/fw/CsLog_2025_0613_142905/WIFI_FW_2025_0613_142905.clog.curf/data/debuglogger/connsyslog/fw/CsLog_2025_0613_142905/BT_FW_2025_0613_142905.clog.curf/data/debuglogger/connsyslog/fw/CsLog_2025_0613_142905/GPS_FW_2025_0613_142905.clog.curf/data/debuglogger/connsyslog/fw/CsLog_2025_0613_142905/MCU_FW_2025_0613_142905.clog.curf

@@ -1,0 +1,4 @@
+/data/debuglogger/mobilelog/APLog_2025_0613_141326__1/
+/data/debuglogger/mobilelog/APLog_2025_0613_141611__2/
+/data/debuglogger/mobilelog/APLog_2025_0613_142530__3/
+/data/debuglogger/mobilelog/APLog_2025_0613_142902__4/

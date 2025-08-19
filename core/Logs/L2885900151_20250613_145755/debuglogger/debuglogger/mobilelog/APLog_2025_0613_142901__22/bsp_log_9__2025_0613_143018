@@ -1,0 +1,481 @@
+----- timezone:Europe/Istanbul
+              sh-13614 [004] d..2 132501.252058: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1103 grp=1 res=1
+              sh-13616 [006] d..2 132501.252326: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=13611 grp=1 res=1
+              sh-13617 [006] d..2 132501.261957: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=13611 grp=1 res=1
+    mobile_log_d-13611 [006] .... 132501.262412: sched_process_fork: comm=mobile_log_d pid=13611 child_comm=mobile_log_d child_pid=13619
+              sh-13618 [007] d..2 132501.266016: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1103 grp=1 res=1
+ mobile_log_d.wc-1103  [002] .... 132501.267924: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13620
+              sh-13619 [006] .... 132501.273034: sched_process_exit: comm=sh pid=13619 prio=120
+              sh-13619 [006] d..2 132501.273077: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=13611 grp=1 res=1
+    mobile_log_d-13611 [007] .... 132501.273735: sched_process_fork: comm=mobile_log_d pid=13611 child_comm=mobile_log_d child_pid=13621
+           <...>-13620 [006] .... 132501.281964: sched_process_exit: comm=sh pid=13620 prio=120
+           <...>-13620 [006] d..2 132501.282015: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1103 grp=1 res=1
+ mobile_log_d.wc-1103  [002] .... 132501.284588: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13622
+              sh-13621 [006] .... 132501.293632: sched_process_exit: comm=sh pid=13621 prio=120
+              sh-13621 [006] d..2 132501.293682: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=13611 grp=1 res=1
+    mobile_log_d-13611 [007] .... 132501.294630: sched_process_exit: comm=mobile_log_d pid=13611 prio=120
+    mobile_log_d-13611 [007] d..2 132501.294728: signal_generate: sig=17 errno=0 code=1 comm=init pid=1 grp=1 res=0
+            init-1     [001] d..2 132501.295239: signal_generate: sig=9 errno=0 code=0 comm=mobile_log_d pid=13611 grp=1 res=0
+              sh-13622 [006] .... 132501.300505: sched_process_exit: comm=sh pid=13622 prio=120
+              sh-13622 [006] d..2 132501.300552: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1103 grp=1 res=1
+ mobile_log_d.wc-1103  [002] .... 132501.302598: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13623
+              sh-13623 [007] .... 132501.314997: sched_process_exit: comm=sh pid=13623 prio=120
+              sh-13623 [007] d..2 132501.315038: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1103 grp=1 res=1
+            init-1     [001] .... 132501.319967: sched_process_fork: comm=init pid=1 child_comm=init child_pid=13624
+    mobile_log_d-13624 [007] .... 132501.378952: sched_process_fork: comm=mobile_log_d pid=13624 child_comm=mobile_log_d child_pid=13625
+              sh-13625 [007] .... 132501.390540: sched_process_exit: comm=sh pid=13625 prio=120
+              sh-13625 [007] d..2 132501.390588: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=13624 grp=1 res=1
+    mobile_log_d-13624 [007] .... 132501.391298: sched_process_fork: comm=mobile_log_d pid=13624 child_comm=mobile_log_d child_pid=13626
+              sh-13626 [007] .... 132501.403429: sched_process_exit: comm=sh pid=13626 prio=120
+              sh-13626 [007] d..2 132501.403461: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=13624 grp=1 res=1
+    mobile_log_d-13624 [007] .... 132501.403806: sched_process_fork: comm=mobile_log_d pid=13624 child_comm=mobile_log_d child_pid=13627
+              sh-13627 [007] .... 132501.430318: sched_process_exit: comm=sh pid=13627 prio=120
+              sh-13627 [007] d..2 132501.430370: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=13624 grp=1 res=1
+    mobile_log_d-13624 [006] .... 132501.431519: sched_process_exit: comm=mobile_log_d pid=13624 prio=120
+           <...>-13624 [006] d..2 132501.431753: signal_generate: sig=17 errno=0 code=1 comm=init pid=1 grp=1 res=0
+            init-1     [002] d..2 132501.432507: signal_generate: sig=9 errno=0 code=0 comm=mobile_log_d pid=13624 grp=1 res=0
+ nioEventLoopGro-13562 [001] d..1 132501.703462: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=13562 grp=0 res=0
+ nioEventLoopGro-13562 [001] d..1 132501.703479: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ mobile_log_d.cp-13609 [003] .... 132501.715072: sched_process_exit: comm=mobile_log_d.cp pid=13609 prio=120
+ mobile_log_d.wc-1103  [004] .... 132501.834909: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13628
+ mobile_log_d.wc-1103  [004] .... 132501.835104: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13629
+ mobile_log_d.wc-1103  [004] .... 132501.835255: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13630
+ mobile_log_d.wc-1103  [004] .... 132501.835630: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13631
+ mobile_log_d.rd-13628 [006] .... 132501.837926: sched_process_fork: comm=mobile_log_d.rd pid=13628 child_comm=mobile_log_d.rd child_pid=13632
+     logd.reader-576   [001] .... 132501.844007: sched_process_fork: comm=logd.reader pid=576 child_comm=logd.reader child_pid=13633
+ mobile_log_d.wc-1103  [004] .... 132501.851758: sched_process_fork: comm=mobile_log_d.wc pid=1103 child_comm=mobile_log_d.wc child_pid=13634
+              sh-13635 [006] .... 132501.887318: sched_process_exit: comm=sh pid=13635 prio=120
+              sh-13635 [006] d..2 132501.887390: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=13628 grp=1 res=1
+           <...>-13634 [007] .... 132501.894115: sched_process_exit: comm=aee pid=13634 prio=120
+           <...>-13634 [007] d..2 132501.894214: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1103 grp=1 res=1
+ MdnsSocketClien-13402 [000] d..1 132501.960877: signal_generate: sig=11 errno=0 code=1 comm=MdnsSocketClien pid=13402 grp=0 res=0
+ MdnsSocketClien-13402 [000] d..1 132501.960892: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+      Thread-901-13605 [000] .... 132501.972954: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13636
+      Thread-901-13605 [000] .... 132501.973279: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13637
+      Thread-901-13605 [000] .... 132501.973792: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13638
+      Thread-901-13605 [005] .... 132501.974486: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13639
+      Thread-901-13605 [003] .... 132501.975313: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13640
+           <...>-1088  [000] .... 132502.075334: sched_process_fork: comm=netdiag pid=1088 child_comm=netdiag child_pid=13641
+           <...>-13638 [003] .... 132502.079627: sched_process_exit: comm=pool-88-thread- pid=13638 prio=120
+           <...>-1088  [001] .... 132502.080613: sched_process_fork: comm=netdiag pid=1088 child_comm=netdiag child_pid=13642
+         netdiag-13642 [003] .... 132502.086512: sched_process_fork: comm=netdiag pid=13642 child_comm=netdiag child_pid=13643
+         netdiag-13642 [004] .... 132502.090641: sched_process_fork: comm=netdiag pid=13642 child_comm=netdiag child_pid=13644
+              sh-13644 [001] .... 132502.118941: sched_process_fork: comm=sh pid=13644 child_comm=sh child_pid=13645
+ pool-88-thread--13636 [005] .... 132502.175351: sched_process_exit: comm=pool-88-thread- pid=13636 prio=120
+ pool-88-thread--13639 [001] .... 132502.283163: sched_process_exit: comm=pool-88-thread- pid=13639 prio=120
+           <...>-1274  [004] .... 132502.349558: sched_process_fork: comm=mdl_sock_host pid=1274 child_comm=mdl_sock_host child_pid=13646
+   csl_sock_host-1218  [000] .... 132502.351233: sched_process_fork: comm=csl_sock_host pid=1218 child_comm=csl_sock_host child_pid=13647
+   csl_sock_host-1218  [001] .... 132502.354309: sched_process_fork: comm=csl_sock_host pid=1218 child_comm=csl_sock_host child_pid=13648
+   csl_sock_host-1218  [001] .... 132502.354786: sched_process_fork: comm=csl_sock_host pid=1218 child_comm=csl_sock_host child_pid=13649
+   csl_sock_host-1218  [001] .... 132502.355278: sched_process_fork: comm=csl_sock_host pid=1218 child_comm=csl_sock_host child_pid=13650
+           <...>-1274  [004] .... 132502.382873: sched_process_fork: comm=mdl_sock_host pid=1274 child_comm=mdl_sock_host child_pid=13651
+           <...>-1274  [004] .... 132502.383223: sched_process_fork: comm=mdl_sock_host pid=1274 child_comm=mdl_sock_host child_pid=13652
+ pool-88-thread--13637 [004] .... 132502.429530: sched_process_exit: comm=pool-88-thread- pid=13637 prio=120
+ pool-88-thread--13640 [006] .... 132502.429694: sched_process_exit: comm=pool-88-thread- pid=13640 prio=120
+           <...>-13646 [001] .... 132502.807144: sched_process_exit: comm=mdl_cp_MDDB pid=13646 prio=120
+        Thread-3-1610  [003] d..1 132503.190423: signal_generate: sig=11 errno=0 code=1 comm=Thread-3 pid=1610 grp=0 res=0
+        Thread-3-1610  [003] d..1 132503.190437: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13647 [007] .... 132503.351931: sched_process_exit: comm=csl_sd_monitor pid=13647 prio=120
+ pool-4-thread-1-13395 [001] d..1 132503.553957: signal_generate: sig=11 errno=0 code=1 comm=pool-4-thread-1 pid=13395 grp=0 res=0
+ pool-4-thread-1-13395 [001] d..1 132503.553973: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ pool-4-thread-1-13395 [001] .... 132503.554692: sched_process_exit: comm=pool-4-thread-1 pid=13395 prio=120
+ Blocking Thread-12470 [004] .... 132503.561041: sched_process_exit: comm=Blocking Thread pid=12470 prio=131
+ DefaultDispatch-2705  [005] d..1 132503.649722: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=2705 grp=0 res=0
+ DefaultDispatch-2705  [005] d..1 132503.649739: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ DefaultDispatch-2703  [000] d..1 132503.651472: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=2703 grp=0 res=0
+ DefaultDispatch-2703  [000] d..1 132503.651485: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13401 [001] d..1 132503.976496: signal_generate: sig=11 errno=0 code=1 comm=mdns-send pid=13401 grp=0 res=0
+           <...>-13401 [001] d..1 132503.976512: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ GlobalScheduler-29580 [001] d..1 132503.977031: signal_generate: sig=11 errno=0 code=1 comm=GlobalScheduler pid=29580 grp=0 res=0
+ GlobalScheduler-29580 [001] d..1 132503.977043: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13605 [005] .... 132505.430778: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13653
+           <...>-13605 [005] .... 132505.431132: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13654
+           <...>-13605 [003] .... 132505.431609: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13655
+           <...>-13655 [006] .... 132505.432503: sched_process_exit: comm=pool-89-thread- pid=13655 prio=120
+ pool-89-thread--13654 [002] .... 132505.432741: sched_process_exit: comm=pool-89-thread- pid=13654 prio=120
+ pool-89-thread--13653 [007] .... 132505.432907: sched_process_exit: comm=pool-89-thread- pid=13653 prio=120
+  binder:19614_2-19628 [007] d..1 132505.452510: signal_generate: sig=11 errno=0 code=1 comm=binder:19614_2 pid=19628 grp=0 res=0
+  binder:19614_2-19628 [007] d..1 132505.452518: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13605 [005] .... 132505.459084: sched_process_fork: comm=Thread-901 pid=13605 child_comm=Thread-901 child_pid=13656
+           <...>-13605 [000] .... 132505.461924: sched_process_exit: comm=Thread-901 pid=13605 prio=120
+   binder:1570_3-1654  [003] d..1 132505.468507: signal_generate: sig=11 errno=0 code=1 comm=binder:1570_3 pid=1654 grp=0 res=0
+   binder:1570_3-1654  [003] d..1 132505.468522: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-19614 [007] .... 132505.650515: sched_process_fork: comm=.debug.loggerui pid=19614 child_comm=.debug.loggerui child_pid=13657
+           <...>-19614 [007] .... 132505.651452: sched_process_fork: comm=.debug.loggerui pid=19614 child_comm=.debug.loggerui child_pid=13658
+           <...>-13658 [006] .... 132505.655591: sched_process_exit: comm=Thread-915 pid=13658 prio=120
+           <...>-13562 [001] d..1 132506.752979: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=13562 grp=0 res=0
+           <...>-13562 [001] d..1 132506.752996: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ mobile_log_d.rd-13628 [006] .... 132506.894646: sched_process_fork: comm=mobile_log_d.rd pid=13628 child_comm=mobile_log_d.rd child_pid=13659
+              sh-13660 [007] .... 132506.923606: sched_process_exit: comm=sh pid=13660 prio=120
+              sh-13660 [007] d..2 132506.923663: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=13628 grp=1 res=1
+           <...>-2271  [002] d..1 132507.198481: signal_generate: sig=11 errno=0 code=1 comm=pool-2-thread-1 pid=2271 grp=0 res=0
+           <...>-2271  [002] d..1 132507.198493: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ VolumeDialogCon-2628  [005] d..1 132507.203845: signal_generate: sig=11 errno=0 code=1 comm=VolumeDialogCon pid=2628 grp=0 res=0
+ VolumeDialogCon-2628  [005] d..1 132507.203856: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2739  [001] d..1 132507.222813: signal_generate: sig=11 errno=0 code=1 comm=binder:2157_7 pid=2739 grp=0 res=0
+           <...>-2739  [001] d..1 132507.222850: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13596 [005] .... 132507.223166: sched_process_exit: comm=Timer-151 pid=13596 prio=120
+           <...>-12131 [001] d..1 132507.223408: signal_generate: sig=11 errno=0 code=1 comm=binder:2157_10 pid=12131 grp=0 res=0
+           <...>-12131 [001] d..1 132507.223417: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+       Timer-152-13657 [007] .... 132507.223780: sched_process_exit: comm=Timer-152 pid=13657 prio=120
+  binder:29541_9-31360 [004] d..1 132507.231665: signal_generate: sig=11 errno=0 code=1 comm=binder:29541_9 pid=31360 grp=0 res=0
+  binder:29541_9-31360 [004] d..1 132507.231677: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  binder:2519_10-15393 [006] d..1 132507.235518: signal_generate: sig=11 errno=0 code=1 comm=binder:2519_10 pid=15393 grp=0 res=0
+  binder:2519_10-15393 [006] d..1 132507.235524: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    RenderThread-10747 [006] .... 132507.239556: sched_process_fork: comm=RenderThread pid=10747 child_comm=RenderThread child_pid=13661
+    RenderThread-13661 [001] .... 132507.261642: sched_process_exit: comm=RenderThread pid=13661 prio=120
+    RenderThread-3486  [006] .... 132507.262058: sched_process_fork: comm=RenderThread pid=3486 child_comm=RenderThread child_pid=13662
+ SurfaceSyncGrou-3930  [006] d..1 132507.263760: signal_generate: sig=11 errno=0 code=1 comm=SurfaceSyncGrou pid=3930 grp=0 res=0
+ SurfaceSyncGrou-3930  [006] d..1 132507.263765: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  binder:13528_2-13542 [005] .... 132507.268278: sched_process_fork: comm=binder:13528_2 pid=13542 child_comm=binder:13528_2 child_pid=13663
+           <...>-13662 [005] .... 132507.286405: sched_process_exit: comm=RenderThread pid=13662 prio=120
+           <...>-7795  [002] d..1 132507.287211: signal_generate: sig=11 errno=0 code=1 comm=binder:7774_2 pid=7795 grp=0 res=0
+           <...>-7795  [002] d..1 132507.287238: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ ReferenceQueueD-12958 [002] d..1 132507.772378: signal_generate: sig=11 errno=0 code=1 comm=ReferenceQueueD pid=12958 grp=0 res=0
+ ReferenceQueueD-12958 [002] d..1 132507.772389: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-12960 [002] d..1 132507.775542: signal_generate: sig=11 errno=0 code=1 comm=FinalizerWatchd pid=12960 grp=0 res=0
+           <...>-12960 [002] d..1 132507.775553: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-12959 [002] d..1 132507.781845: signal_generate: sig=11 errno=0 code=1 comm=FinalizerDaemon pid=12959 grp=0 res=0
+           <...>-12959 [002] d..1 132507.781855: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8238  [004] d..1 132508.257089: signal_generate: sig=11 errno=0 code=1 comm=pool-5-thread-8 pid=8238 grp=0 res=0
+           <...>-8238  [004] d..1 132508.257112: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-10115 [000] d..1 132509.473497: signal_generate: sig=11 errno=0 code=1 comm=binder:8646_6 pid=10115 grp=0 res=0
+           <...>-10115 [000] d..1 132509.473508: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ .android.dialer-8646  [003] d..1 132509.473902: signal_generate: sig=11 errno=0 code=1 comm=.android.dialer pid=8646 grp=0 res=0
+ .android.dialer-8646  [003] d..1 132509.473913: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  binder:12943_4-13391 [003] d..1 132509.482647: signal_generate: sig=11 errno=0 code=1 comm=binder:12943_4 pid=13391 grp=0 res=0
+  binder:12943_4-13391 [003] d..1 132509.482662: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-12943 [001] d..1 132509.484809: signal_generate: sig=11 errno=0 code=1 comm=ek.engineermode pid=12943 grp=0 res=0
+           <...>-12943 [001] d..1 132509.484828: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+   binder:2157_5-2443  [000] d..1 132509.553232: signal_generate: sig=11 errno=0 code=1 comm=binder:2157_5 pid=2443 grp=0 res=0
+   binder:2157_5-2443  [000] d..1 132509.553262: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    UiAutomation-13555 [002] d..1 132509.581835: signal_generate: sig=11 errno=0 code=1 comm=UiAutomation pid=13555 grp=0 res=0
+    UiAutomation-13555 [002] d..1 132509.581845: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13528 [000] d..1 132510.129530: signal_generate: sig=11 errno=0 code=1 comm=tomator2.server pid=13528 grp=0 res=0
+           <...>-13528 [000] d..1 132510.129548: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2262  [006] .... 132510.144888: sched_process_fork: comm=RenderThread pid=2262 child_comm=RenderThread child_pid=13664
+ SurfaceSyncGrou-2845  [004] d..1 132510.146302: signal_generate: sig=11 errno=0 code=1 comm=SurfaceSyncGrou pid=2845 grp=0 res=0
+ SurfaceSyncGrou-2845  [004] d..1 132510.146315: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+       hwuiTask0-2848  [000] d..1 132510.147370: signal_generate: sig=11 errno=0 code=1 comm=hwuiTask0 pid=2848 grp=0 res=0
+       hwuiTask0-2848  [000] d..1 132510.147383: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+       hwuiTask1-2849  [003] d..1 132510.152442: signal_generate: sig=11 errno=0 code=1 comm=hwuiTask1 pid=2849 grp=0 res=0
+       hwuiTask1-2849  [003] d..1 132510.152459: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13664 [006] .... 132510.158767: sched_process_exit: comm=RenderThread pid=13664 prio=120
+ mobile_log_d.rd-13628 [000] .... 132511.932583: sched_process_fork: comm=mobile_log_d.rd pid=13628 child_comm=mobile_log_d.rd child_pid=13665
+           <...>-13666 [007] .... 132511.970600: sched_process_exit: comm=sh pid=13666 prio=120
+           <...>-13666 [007] d..2 132511.970674: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=13628 grp=1 res=1
+      android.ui-1593  [000] d..1 132514.634035: signal_generate: sig=11 errno=0 code=1 comm=android.ui pid=1593 grp=0 res=0
+      android.ui-1593  [000] d..1 132514.634054: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2735  [000] d..1 132516.452356: signal_generate: sig=11 errno=0 code=1 comm=pool-5-thread-1 pid=2735 grp=0 res=0
+           <...>-2735  [000] d..1 132516.452370: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ mobile_log_d.rd-13628 [000] .... 132516.976749: sched_process_fork: comm=mobile_log_d.rd pid=13628 child_comm=mobile_log_d.rd child_pid=13667
+           <...>-13668 [007] .... 132517.007206: sched_process_exit: comm=sh pid=13668 prio=120
+           <...>-13668 [007] d..2 132517.007261: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=13628 grp=1 res=1
+           <...>-12960 [002] d..1 132517.776000: signal_generate: sig=11 errno=0 code=1 comm=FinalizerWatchd pid=12960 grp=0 res=0
+           <...>-12960 [002] d..1 132517.776016: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-4099  [001] d..1 132519.737527: signal_generate: sig=11 errno=0 code=1 comm=binder:2519_F pid=4099 grp=0 res=0
+           <...>-4099  [001] d..1 132519.737541: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-4099  [003] d..1 132519.744830: signal_generate: sig=11 errno=0 code=1 comm=binder:2519_F pid=4099 grp=0 res=0
+           <...>-4099  [003] d..1 132519.744846: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ TFLiteCounters--29756 [001] d..1 132519.993937: signal_generate: sig=11 errno=0 code=1 comm=TFLiteCounters- pid=29756 grp=0 res=0
+ TFLiteCounters--29756 [001] d..1 132519.993952: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-29755 [005] d..1 132519.996184: signal_generate: sig=11 errno=0 code=1 comm=GoogleApiHandle pid=29755 grp=0 res=0
+           <...>-29755 [005] d..1 132519.996195: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13604 [006] .... 132520.012213: sched_process_fork: comm=lowpool[622] pid=13604 child_comm=lowpool[622] child_pid=13669
+           <...>-2246  [005] d..1 132520.309182: signal_generate: sig=11 errno=0 code=1 comm=ll.splashscreen pid=2246 grp=0 res=0
+           <...>-2246  [005] d..1 132520.309192: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2247  [004] d..1 132520.317600: signal_generate: sig=11 errno=0 code=1 comm=ll.splashworker pid=2247 grp=0 res=0
+           <...>-2247  [004] d..1 132520.317612: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    RenderThread-9677  [003] .... 132520.328455: sched_process_fork: comm=RenderThread pid=9677 child_comm=RenderThread child_pid=13670
+    RenderThread-13670 [001] .... 132520.331590: sched_process_exit: comm=RenderThread pid=13670 prio=120
+ android.youtube-8193  [000] d..1 132520.343942: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+ android.youtube-8193  [000] d..1 132520.343954: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ android.youtube-8193  [007] d..1 132520.357245: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+ android.youtube-8193  [007] d..1 132520.357252: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2262  [001] .... 132520.357516: sched_process_fork: comm=RenderThread pid=2262 child_comm=RenderThread child_pid=13671
+ android.youtube-8193  [007] .... 132520.374592: sched_process_fork: comm=android.youtube pid=8193 child_comm=android.youtube child_pid=13672
+    RenderThread-13671 [007] .... 132520.382911: sched_process_exit: comm=RenderThread pid=13671 prio=120
+           <...>-9752  [005] d..1 132520.390738: signal_generate: sig=11 errno=0 code=1 comm=binder:2519_6 pid=9752 grp=0 res=0
+           <...>-9752  [005] d..1 132520.390777: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ yt-critical Thr-8289  [002] d..1 132520.391613: signal_generate: sig=11 errno=0 code=1 comm=yt-critical Thr pid=8289 grp=0 res=0
+ yt-critical Thr-8289  [002] d..1 132520.391623: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8332  [007] d..1 132520.399967: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #0 pid=8332 grp=0 res=0
+           <...>-8332  [007] d..1 132520.399974: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  Lite Thread #2-8386  [000] d..1 132520.400350: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #2 pid=8386 grp=0 res=0
+  Lite Thread #2-8386  [000] d..1 132520.400357: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #1-8281  [001] d..1 132520.407284: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #1 pid=8281 grp=0 res=0
+    BG Thread #1-8281  [001] d..1 132520.407295: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+       CronetNet-8330  [005] d..1 132520.413983: signal_generate: sig=11 errno=0 code=1 comm=CronetNet pid=8330 grp=0 res=0
+       CronetNet-8330  [005] d..1 132520.413994: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #7-8314  [001] d..1 132520.437623: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #7 pid=8314 grp=0 res=0
+    BG Thread #7-8314  [001] d..1 132520.437641: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8294  [003] d..1 132520.437675: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #2 pid=8294 grp=0 res=0
+           <...>-8294  [003] d..1 132520.437680: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8316  [001] d..1 132520.438084: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #9 pid=8316 grp=0 res=0
+           <...>-8316  [001] d..1 132520.438093: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8315  [003] d..1 132520.438143: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #8 pid=8315 grp=0 res=0
+           <...>-8315  [003] d..1 132520.438147: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8391  [001] d..1 132520.438338: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #14 pid=8391 grp=0 res=0
+           <...>-8391  [001] d..1 132520.438346: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #3-8296  [004] d..1 132520.438427: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #3 pid=8296 grp=0 res=0
+    BG Thread #3-8296  [004] d..1 132520.438432: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8313  [001] d..1 132520.438445: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #6 pid=8313 grp=0 res=0
+           <...>-8313  [001] d..1 132520.438449: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #7-8314  [005] d..1 132520.442657: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #7 pid=8314 grp=0 res=0
+    BG Thread #7-8314  [005] d..1 132520.442667: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8412  [002] d..1 132520.443260: signal_generate: sig=11 errno=0 code=1 comm=FileObserver pid=8412 grp=0 res=0
+           <...>-8412  [002] d..1 132520.443271: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #6-8313  [002] d..1 132520.444588: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #6 pid=8313 grp=0 res=0
+    BG Thread #6-8313  [002] d..1 132520.444600: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  Lite Thread #0-8332  [001] .... 132520.444707: sched_process_fork: comm=Lite Thread #0 pid=8332 child_comm=Lite Thread #0 child_pid=13673
+        Primes-1-8279  [001] d..1 132520.451922: signal_generate: sig=11 errno=0 code=1 comm=Primes-1 pid=8279 grp=0 res=0
+        Primes-1-8279  [001] d..1 132520.451934: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8322  [003] d..1 132520.452133: signal_generate: sig=11 errno=0 code=1 comm=Primes-2 pid=8322 grp=0 res=0
+           <...>-8322  [003] d..1 132520.452140: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ android.youtube-8193  [007] .... 132520.503229: sched_process_fork: comm=android.youtube pid=8193 child_comm=android.youtube child_pid=13674
+           <...>-13674 [006] .... 132520.505615: sched_process_fork: comm=mdxSsdp38-1 pid=13674 child_comm=mdxSsdp38-1 child_pid=13675
+           <...>-13674 [006] .... 132520.505833: sched_process_fork: comm=mdxSsdp38-1 pid=13674 child_comm=mdxSsdp38-1 child_pid=13676
+ android.youtube-8193  [007] .... 132520.509954: sched_process_fork: comm=android.youtube pid=8193 child_comm=android.youtube child_pid=13677
+     mdxSsdp37-1-13677 [007] .... 132520.514966: sched_process_fork: comm=mdxSsdp37-1 pid=13677 child_comm=mdxSsdp37-1 child_pid=13678
+     mdxSsdp37-1-13677 [007] .... 132520.515168: sched_process_fork: comm=mdxSsdp37-1 pid=13677 child_comm=mdxSsdp37-1 child_pid=13679
+           <...>-13672 [004] .... 132520.516814: sched_process_fork: comm=ScionFrontendAp pid=13672 child_comm=ScionFrontendAp child_pid=13680
+    BG Thread #2-8294  [000] d..1 132520.518934: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #2 pid=8294 grp=0 res=0
+    BG Thread #2-8294  [000] d..1 132520.518947: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ GoogleApiHandle-8297  [007] d..1 132520.519152: signal_generate: sig=11 errno=0 code=1 comm=GoogleApiHandle pid=8297 grp=0 res=0
+ GoogleApiHandle-8297  [007] d..1 132520.519157: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8355  [005] d..1 132520.537120: signal_generate: sig=11 errno=0 code=1 comm=queued-work-loo pid=8355 grp=0 res=0
+           <...>-8355  [005] d..1 132520.537164: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ ExoPlayer:Playb-8410  [003] d..1 132520.542589: signal_generate: sig=11 errno=0 code=1 comm=ExoPlayer:Playb pid=8410 grp=0 res=0
+ ExoPlayer:Playb-8410  [003] d..1 132520.542604: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  Lite Thread #5-8401  [003] d..1 132520.605993: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #5 pid=8401 grp=0 res=0
+  Lite Thread #5-8401  [003] d..1 132520.606007: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  Lite Thread #4-8400  [001] d..1 132520.606184: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #4 pid=8400 grp=0 res=0
+  Lite Thread #4-8400  [001] d..1 132520.606193: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ GoogleApiHandle-13094 [003] d..1 132520.618996: signal_generate: sig=11 errno=0 code=1 comm=GoogleApiHandle pid=13094 grp=0 res=0
+ GoogleApiHandle-13094 [003] d..1 132520.619017: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #9-8316  [000] d..1 132520.627157: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #9 pid=8316 grp=0 res=0
+    BG Thread #9-8316  [000] d..1 132520.627170: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8316  [000] d..1 132520.627469: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #9 pid=8316 grp=0 res=0
+           <...>-8316  [000] d..1 132520.627533: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9726  [004] d..1 132520.627582: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp23-1 pid=9726 grp=0 res=0
+           <...>-9726  [004] d..1 132520.627588: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #2-8294  [005] d..1 132520.628065: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #2 pid=8294 grp=0 res=0
+    BG Thread #2-8294  [005] d..1 132520.628076: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+     mdxSsdp23-3-9728  [003] d..1 132520.629519: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp23-3 pid=9728 grp=0 res=0
+     mdxSsdp23-3-9728  [003] d..1 132520.629528: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  binder:29541_B-31362 [003] d..1 132520.629949: signal_generate: sig=11 errno=0 code=1 comm=binder:29541_B pid=31362 grp=0 res=0
+  binder:29541_B-31362 [003] d..1 132520.629961: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+     mdxSsdp23-2-9727  [006] d..1 132520.630425: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp23-2 pid=9727 grp=0 res=0
+     mdxSsdp23-2-9727  [006] d..1 132520.630435: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-31367 [000] d..1 132520.630738: signal_generate: sig=11 errno=0 code=1 comm=binder:29541_D pid=31367 grp=0 res=0
+           <...>-31367 [000] d..1 132520.630746: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13109 [003] d..1 132520.637847: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #2 pid=13109 grp=0 res=0
+           <...>-13109 [003] d..1 132520.637857: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13102 [000] d..1 132520.638687: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #0 pid=13102 grp=0 res=0
+           <...>-13102 [000] d..1 132520.638702: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  Lite Thread #5-13111 [001] d..1 132520.644039: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #5 pid=13111 grp=0 res=0
+  Lite Thread #5-13111 [001] d..1 132520.644051: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13108 [003] d..1 132520.644582: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #3 pid=13108 grp=0 res=0
+           <...>-13108 [003] d..1 132520.644593: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13107 [001] d..1 132520.644662: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #1 pid=13107 grp=0 res=0
+           <...>-13107 [001] d..1 132520.644665: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #5-8303  [001] d..1 132520.654844: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #5 pid=8303 grp=0 res=0
+    BG Thread #5-8303  [001] d..1 132520.654865: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8390  [004] d..1 132520.654966: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #13 pid=8390 grp=0 res=0
+           <...>-8390  [004] d..1 132520.654970: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9799  [004] d..1 132520.681384: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp21-3 pid=9799 grp=0 res=0
+           <...>-9799  [004] d..1 132520.681395: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+     FramePolicy-9687  [002] d..1 132520.682053: signal_generate: sig=11 errno=0 code=1 comm=FramePolicy pid=9687 grp=0 res=0
+     FramePolicy-9687  [002] d..1 132520.682068: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9798  [007] d..1 132520.683525: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp21-2 pid=9798 grp=0 res=0
+           <...>-9798  [007] d..1 132520.683533: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+     mdxSsdp21-1-9796  [006] d..1 132520.683758: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp21-1 pid=9796 grp=0 res=0
+     mdxSsdp21-1-9796  [006] d..1 132520.683761: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    RenderThread-9677  [000] .... 132520.730666: sched_process_fork: comm=RenderThread pid=9677 child_comm=RenderThread child_pid=13681
+       hwuiTask1-9724  [005] d..1 132520.750329: signal_generate: sig=11 errno=0 code=1 comm=hwuiTask1 pid=9724 grp=0 res=0
+       hwuiTask1-9724  [005] d..1 132520.750355: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    RenderThread-9677  [000] d..1 132520.790792: signal_generate: sig=11 errno=0 code=1 comm=RenderThread pid=9677 grp=0 res=0
+    RenderThread-9677  [000] d..1 132520.790803: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-29624 [002] d..1 132520.800569: signal_generate: sig=11 errno=0 code=1 comm=binder:29541_4 pid=29624 grp=0 res=0
+           <...>-29624 [002] d..1 132520.800581: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-29777 [001] d..1 132520.800993: signal_generate: sig=11 errno=0 code=1 comm=binder:29541_6 pid=29777 grp=0 res=0
+           <...>-29777 [001] d..1 132520.801002: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  binder:29541_E-32192 [001] d..1 132520.803040: signal_generate: sig=11 errno=0 code=1 comm=binder:29541_E pid=32192 grp=0 res=0
+  binder:29541_E-32192 [001] d..1 132520.803053: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9723  [000] d..1 132520.805746: signal_generate: sig=11 errno=0 code=1 comm=hwuiTask0 pid=9723 grp=0 res=0
+           <...>-9723  [000] d..1 132520.805757: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+   binder:7774_5-7880  [003] .... 132520.849265: sched_process_fork: comm=binder:7774_5 pid=7880 child_comm=binder:7774_5 child_pid=13682
+           <...>-13401 [002] d..1 132520.881265: signal_generate: sig=34 errno=0 code=-6 comm=mdns-multicast- pid=13403 grp=0 res=0
+           <...>-13403 [000] d..1 132520.883541: signal_deliver: sig=34 errno=0 code=-6 sa_handler=6fccde80d0 sa_flags=0
+           <...>-13402 [006] .... 132520.887773: sched_process_exit: comm=MdnsSocketClien pid=13402 prio=120
+           <...>-13604 [004] .... 132520.888069: sched_process_fork: comm=lowpool[622] pid=13604 child_comm=lowpool[622] child_pid=13683
+           <...>-13513 [006] .... 132520.888093: sched_process_fork: comm=lowpool[620] pid=13513 child_comm=lowpool[620] child_pid=13684
+           <...>-13403 [004] .... 132520.896145: sched_process_exit: comm=mdns-multicast- pid=13403 prio=120
+           <...>-13401 [004] .... 132520.896357: sched_process_exit: comm=mdns-send pid=13401 prio=120
+           <...>-13513 [002] .... 132520.908724: sched_process_fork: comm=lowpool[620] pid=13513 child_comm=lowpool[620] child_pid=13685
+           <...>-13513 [002] .... 132520.912325: sched_process_fork: comm=lowpool[620] pid=13513 child_comm=lowpool[620] child_pid=13686
+           <...>-13513 [002] .... 132520.913905: sched_process_fork: comm=lowpool[620] pid=13513 child_comm=lowpool[620] child_pid=13687
+           <...>-13513 [000] d..1 132520.916773: signal_generate: sig=11 errno=0 code=1 comm=lowpool[620] pid=13513 grp=0 res=0
+           <...>-13513 [000] d..1 132520.916784: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ glide-source-th-9777  [007] d..1 132521.279018: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=9777 grp=0 res=0
+ glide-source-th-9777  [007] d..1 132521.279025: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9778  [007] d..1 132521.279833: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=9778 grp=0 res=0
+           <...>-9778  [007] d..1 132521.279840: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ glide-source-th-9725  [000] dn.1 132521.280003: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=9725 grp=0 res=0
+ glide-source-th-9725  [000] d..1 132521.280093: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ ComponentLayout-8397  [001] d..1 132521.287367: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=8397 grp=0 res=0
+ ComponentLayout-8397  [001] d..1 132521.287378: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ ComponentLayout-9779  [000] d..1 132521.287546: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=9779 grp=0 res=0
+ ComponentLayout-9779  [000] d..1 132521.287555: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+   BG Thread #12-8389  [006] d..1 132521.290325: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #12 pid=8389 grp=0 res=0
+   BG Thread #12-8389  [006] d..1 132521.290333: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #0-8265  [007] d..1 132521.290434: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #0 pid=8265 grp=0 res=0
+    BG Thread #0-8265  [007] d..1 132521.290438: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [005] d..1 132521.297770: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [005] d..1 132521.297783: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [005] d..1 132521.307935: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [005] d..1 132521.307946: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9721  [001] d..1 132521.331002: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=9721 grp=0 res=0
+           <...>-9721  [001] d..1 132521.331014: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+   CsiReporter-0-8407  [004] d..1 132521.352422: signal_generate: sig=11 errno=0 code=1 comm=CsiReporter-0 pid=8407 grp=0 res=0
+   CsiReporter-0-8407  [004] d..1 132521.352437: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ ThreadPoolForeg-8329  [005] d..1 132521.379297: signal_generate: sig=11 errno=0 code=1 comm=ThreadPoolForeg pid=8329 grp=0 res=0
+ ThreadPoolForeg-8329  [005] d..1 132521.379308: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+  Lite Thread #0-8309  [006] d..1 132521.434476: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #0 pid=8309 grp=0 res=0
+  Lite Thread #0-8309  [006] d..1 132521.434482: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2106  [003] d..1 132521.434610: signal_generate: sig=11 errno=0 code=1 comm=SessionRecordTh pid=2106 grp=0 res=0
+           <...>-2106  [003] d..1 132521.434614: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ Blocking Thread-13557 [000] .... 132521.517807: sched_process_exit: comm=Blocking Thread pid=13557 prio=131
+           <...>-16777 [001] .... 132521.520380: sched_process_fork: comm=Lite Thread #3 pid=16777 child_comm=Lite Thread #3 child_pid=13688
+ ComponentLayout-8397  [004] d..1 132521.623558: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=8397 grp=0 res=0
+ ComponentLayout-8397  [001] d..1 132521.623679: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9722  [001] d..1 132521.744656: signal_generate: sig=11 errno=0 code=1 comm=SurfaceSyncGrou pid=9722 grp=0 res=0
+           <...>-9722  [001] d..1 132521.744672: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13559 [006] d..1 132521.899492: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=13559 grp=0 res=0
+           <...>-13559 [006] d..1 132521.899500: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ nioEventLoopGro-13560 [006] d..1 132521.946002: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=13560 grp=0 res=0
+ nioEventLoopGro-13560 [006] d..1 132521.946011: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13561 [000] d..1 132521.950209: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=13561 grp=0 res=0
+           <...>-13561 [000] d..1 132521.950220: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ mobile_log_d.rd-13628 [000] .... 132522.012792: sched_process_fork: comm=mobile_log_d.rd pid=13628 child_comm=mobile_log_d.rd child_pid=13689
+           <...>-13690 [006] .... 132522.051194: sched_process_exit: comm=sh pid=13690 prio=120
+           <...>-13690 [006] d..2 132522.051254: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=13628 grp=1 res=1
+           <...>-8300  [001] d..1 132522.289601: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #4 pid=8300 grp=0 res=0
+           <...>-8394  [002] d..1 132522.289615: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #15 pid=8394 grp=0 res=0
+           <...>-8300  [001] d..1 132522.289623: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8394  [002] d..1 132522.289629: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8317  [005] d..1 132522.289661: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #10 pid=8317 grp=0 res=0
+           <...>-8317  [005] d..1 132522.289668: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8386  [006] d..1 132522.532192: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #2 pid=8386 grp=0 res=0
+           <...>-8386  [006] d..1 132522.532198: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8283  [003] d..1 132522.729115: signal_generate: sig=11 errno=0 code=1 comm=yt-critical Thr pid=8283 grp=0 res=0
+           <...>-8283  [003] d..1 132522.729171: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-11066 [001] d..1 132522.742121: signal_generate: sig=11 errno=0 code=1 comm=binder:8193_A pid=11066 grp=0 res=0
+           <...>-11066 [001] d..1 132522.742132: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8401  [003] dn.1 132523.231594: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #5 pid=8401 grp=0 res=0
+           <...>-8401  [002] d..1 132523.231864: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8289  [001] d..1 132523.273325: signal_generate: sig=11 errno=0 code=1 comm=yt-critical Thr pid=8289 grp=0 res=0
+           <...>-8289  [001] d..1 132523.273337: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-11066 [003] d..1 132523.461508: signal_generate: sig=11 errno=0 code=1 comm=binder:8193_A pid=11066 grp=0 res=0
+           <...>-11066 [003] d..1 132523.461522: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2263  [004] d..1 132523.777956: signal_generate: sig=11 errno=0 code=1 comm=android.bg pid=2263 grp=0 res=0
+           <...>-2263  [004] d..1 132523.777974: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2152  [002] d..1 132523.866578: signal_generate: sig=11 errno=0 code=1 comm=NetworkStatsObs pid=2152 grp=0 res=0
+           <...>-2152  [002] d..1 132523.866591: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2065  [001] d..1 132523.867471: signal_generate: sig=11 errno=0 code=1 comm=NetworkPolicy pid=2065 grp=0 res=0
+           <...>-2065  [001] d..1 132523.867486: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ ComponentLayout-8397  [003] d..1 132524.098731: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=8397 grp=0 res=0
+ ComponentLayout-8397  [003] d..1 132524.098742: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2955  [002] d..1 132524.641864: signal_generate: sig=11 errno=0 code=1 comm=pool-5-thread-2 pid=2955 grp=0 res=0
+           <...>-2955  [002] d..1 132524.641880: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8285  [003] d..1 132524.792744: signal_generate: sig=11 errno=0 code=1 comm=yt-critical Thr pid=8285 grp=0 res=0
+           <...>-8285  [003] d..1 132524.792762: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [006] d..1 132524.861389: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [006] d..1 132524.861396: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8313  [002] d..1 132524.866068: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #6 pid=8313 grp=0 res=0
+           <...>-8313  [002] d..1 132524.866078: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ Blocking Thread-13673 [004] .... 132525.460547: sched_process_fork: comm=Blocking Thread pid=13673 child_comm=Blocking Thread child_pid=13691
+           <...>-13691 [007] .... 132525.461326: sched_process_fork: comm=firebase-iid-ex pid=13691 child_comm=firebase-iid-ex child_pid=13692
+ firebase-instal-13692 [001] .... 132525.463311: sched_process_fork: comm=firebase-instal pid=13692 child_comm=firebase-instal child_pid=13693
+ Blocking Thread-13673 [005] .... 132525.469159: sched_process_fork: comm=Blocking Thread pid=13673 child_comm=Blocking Thread child_pid=13694
+ mobile_log_d.rd-13628 [002] .... 132527.057825: sched_process_fork: comm=mobile_log_d.rd pid=13628 child_comm=mobile_log_d.rd child_pid=13695
+              sh-13696 [001] .... 132527.107912: sched_process_exit: comm=sh pid=13696 prio=120
+              sh-13696 [001] d..2 132527.108056: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=13628 grp=1 res=1
+ ComponentLayout-9779  [005] d..1 132527.241365: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=9779 grp=0 res=0
+ ComponentLayout-9779  [005] d..1 132527.241378: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+ ComponentLayout-8397  [001] d..1 132527.258494: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=8397 grp=0 res=0
+ ComponentLayout-8397  [001] d..1 132527.258506: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    Light-P0-390-13389 [005] .... 132527.638748: sched_process_exit: comm=Light-P0-390 pid=13389 prio=120
+           <...>-13573 [001] d..1 132529.215390: signal_generate: sig=11 errno=0 code=1 comm=Blocking Thread pid=13573 grp=0 res=0
+           <...>-13573 [001] d..1 132529.215409: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13573 [001] .... 132529.215935: sched_process_exit: comm=Blocking Thread pid=13573 prio=131
+           <...>-13572 [003] d..1 132529.218186: signal_generate: sig=11 errno=0 code=1 comm=Blocking Thread pid=13572 grp=0 res=0
+           <...>-13572 [003] d..1 132529.218199: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13572 [003] .... 132529.218728: sched_process_exit: comm=Blocking Thread pid=13572 prio=131
+           <...>-13576 [002] d..1 132529.292584: signal_generate: sig=11 errno=0 code=1 comm=Blocking Thread pid=13576 grp=0 res=0
+           <...>-13577 [001] d..1 132529.292601: signal_generate: sig=11 errno=0 code=1 comm=Blocking Thread pid=13577 grp=0 res=0
+           <...>-13576 [002] d..1 132529.292612: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13577 [001] d..1 132529.292619: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13576 [002] .... 132529.293412: sched_process_exit: comm=Blocking Thread pid=13576 prio=131
+           <...>-13577 [000] .... 132529.293417: sched_process_exit: comm=Blocking Thread pid=13577 prio=131
+       CronetNet-8330  [005] d..1 132529.304369: signal_generate: sig=11 errno=0 code=1 comm=CronetNet pid=8330 grp=0 res=0
+       CronetNet-8330  [005] d..1 132529.304389: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8694  [002] d..1 132529.307969: signal_generate: sig=11 errno=0 code=1 comm=Scheduler Threa pid=8694 grp=0 res=0
+           <...>-8694  [002] d..1 132529.307984: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8704  [002] d..1 132529.308437: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #1 pid=8704 grp=0 res=0
+           <...>-8704  [002] d..1 132529.308450: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8746  [001] d..1 132529.308887: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #3 pid=8746 grp=0 res=0
+           <...>-8746  [001] d..1 132529.308899: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13581 [000] .... 132529.672803: sched_process_exit: comm=Blocking Thread pid=13581 prio=131
+           <...>-13580 [002] .... 132529.672803: sched_process_exit: comm=Blocking Thread pid=13580 prio=131
+           <...>-7799  [001] d..1 132530.856937: signal_generate: sig=11 errno=0 code=1 comm=binder:7774_3 pid=7799 grp=0 res=0
+           <...>-7799  [001] d..1 132530.857048: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13684 [000] .... 132530.915367: sched_process_exit: comm=lowpool[625] pid=13684 prio=130
+           <...>-13669 [002] .... 132530.918158: sched_process_exit: comm=lowpool[623] pid=13669 prio=130
+           <...>-13604 [000] .... 132530.918187: sched_process_exit: comm=lowpool[622] pid=13604 prio=130
+ mobile_log_d.rd-13628 [002] .... 132532.116173: sched_process_fork: comm=mobile_log_d.rd pid=13628 child_comm=mobile_log_d.rd child_pid=13697
+           <...>-13698 [006] .... 132532.151996: sched_process_exit: comm=sh pid=13698 prio=120
+           <...>-13698 [006] d..2 132532.152062: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=13628 grp=1 res=1
+           <...>-2288  [004] d..1 132532.295245: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=2288 grp=0 res=0
+           <...>-2288  [004] d..1 132532.295263: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9068  [002] d..1 132532.295274: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=9068 grp=0 res=0
+           <...>-9068  [002] d..1 132532.295284: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9069  [002] d..1 132532.295473: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=9069 grp=0 res=0
+           <...>-9069  [002] d..1 132532.295481: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2704  [002] d..1 132532.295570: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=2704 grp=0 res=0
+           <...>-2704  [002] d..1 132532.295575: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2710  [002] d..1 132532.295650: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=2710 grp=0 res=0
+           <...>-2710  [002] d..1 132532.295655: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-2712  [002] d..1 132532.295722: signal_generate: sig=11 errno=0 code=1 comm=DefaultDispatch pid=2712 grp=0 res=0
+           <...>-2712  [002] d..1 132532.295725: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-5534  [004] d..1 132532.827282: signal_generate: sig=11 errno=0 code=1 comm=pool-5-thread-3 pid=5534 grp=0 res=0
+           <...>-5534  [004] d..1 132532.827299: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-9779  [005] d..1 132533.658254: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=9779 grp=0 res=0
+           <...>-9779  [005] d..1 132533.658267: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [006] d..1 132533.658996: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [006] d..1 132533.659003: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [006] d..1 132533.662203: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [006] d..1 132533.662211: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [006] d..1 132533.663731: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [006] d..1 132533.663737: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [007] d..1 132533.665407: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [007] d..1 132533.665415: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [006] d..1 132533.666550: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [006] d..1 132533.666556: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [006] d..1 132533.667328: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [006] d..1 132533.667334: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [006] d..1 132533.668703: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0
+           <...>-8193  [006] d..1 132533.668710: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13575 [000] d..1 132533.719079: signal_generate: sig=11 errno=0 code=1 comm=Blocking Thread pid=13575 grp=0 res=0
+           <...>-13575 [000] d..1 132533.719096: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13575 [000] .... 132533.719650: sched_process_exit: comm=Blocking Thread pid=13575 prio=131
+           <...>-8689  [002] d..1 132534.347648: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #0 pid=8689 grp=0 res=0
+           <...>-8689  [002] d..1 132534.347662: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+    BG Thread #2-8708  [000] d..1 132534.348333: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #2 pid=8708 grp=0 res=0
+    BG Thread #2-8708  [000] d..1 132534.348349: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13574 [002] d..1 132534.363280: signal_generate: sig=11 errno=0 code=1 comm=Blocking Thread pid=13574 grp=0 res=0
+           <...>-13574 [002] d..1 132534.363292: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-13574 [002] .... 132534.363748: sched_process_exit: comm=Blocking Thread pid=13574 prio=131
+           <...>-8401  [004] d..1 132535.164456: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #5 pid=8401 grp=0 res=0
+           <...>-8401  [004] d..1 132535.164472: signal_deliver: sig=11 errno=0 code=1 sa_handler=729c80508c sa_flags=18000c04
+           <...>-8193  [007] d..1 132535.164618: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=8193 grp=0 res=0

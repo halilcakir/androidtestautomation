@@ -1,0 +1,47 @@
+[2025-06-23 15:42:53]  [ACTION]: {'Test attempt 1/4'}
+[2025-06-23 15:43:03]  [ACTION]: {'Strategy 1: Initial attempt'}
+[2025-06-23 15:43:03]  [ACTION]: {'Attempt 1: Locating element @ //android.widget.TextView[@content-desc="Phone"]'}
+[2025-06-23 15:43:05]  [ACTION]: {'App opened successfully'}
+[2025-06-23 15:43:06]  [ACTION]: {'Strategy 1: Initial attempt'}
+[2025-06-23 15:43:06]  [ACTION]: {'Attempt 1: Locating element @ //android.widget.ImageButton[@content-desc="key pad"]'}
+[2025-06-23 15:43:08]  [ACTION]: {'App opened successfully'}
+[2025-06-23 15:43:19] Error: Record_Video İzin bulunamadı.
+[2025-06-23 15:43:19] Error: Location İzin bulunamadı.
+[2025-06-23 15:43:19] Error: Nearby_Devices İzin bulunamadı.
+[2025-06-23 15:43:19] Error: Phone_Calls İzin bulunamadı.
+[2025-06-23 15:43:25]  [ACTION]: {'Element found and clicked'}
+[2025-06-23 15:43:26]  [ACTION]: {'Element found and clicked'}
+[2025-06-23 15:43:27]  [ACTION]: {'Element found and clicked'}
+[2025-06-23 15:43:29]  [ACTION]: {'Element found and clicked'}
+[2025-06-23 15:43:29]  [ACTION]: {'Daha önce kaydedilen log temizlendi.'}
+[2025-06-23 15:43:32]  [ACTION]: {'Element found and clicked'}
+[2025-06-23 15:43:42]  [ACTION]: {'Power button clicked 0 times'}
+[2025-06-23 15:43:47]  [ACTION]: {'Power button clicked 1 times'}
+[2025-06-23 15:43:51]  [ACTION]: {'Power button clicked 2 times'}
+[2025-06-23 15:43:56]  [ACTION]: {'Power button clicked 3 times'}
+[2025-06-23 15:44:00]  [ACTION]: {'Power button clicked 4 times'}
+[2025-06-23 15:44:05]  [ACTION]: {'Power button clicked 5 times'}
+[2025-06-23 15:44:09]  [ACTION]: {'Power button clicked 6 times'}
+[2025-06-23 15:44:13]  [ACTION]: {'Power button clicked 7 times'}
+[2025-06-23 15:44:18]  [ACTION]: {'Power button clicked 8 times'}
+[2025-06-23 15:44:22]  [ACTION]: {'Power button clicked 9 times'}
+[2025-06-23 15:44:27]  [ACTION]: {'Power button clicked 10 times'}
+[2025-06-23 15:44:31]  [ACTION]: {'Power button clicked 11 times'}
+[2025-06-23 15:44:35]  [ACTION]: {'Power button clicked 12 times'}
+[2025-06-23 15:44:40]  [ACTION]: {'Power button clicked 13 times'}
+[2025-06-23 15:44:44]  [ACTION]: {'Power button clicked 14 times'}
+[2025-06-23 15:44:48]  [ACTION]: {'Power button clicked 15 times'}
+[2025-06-23 15:44:53]  [ACTION]: {'Power button clicked 16 times'}
+[2025-06-23 15:44:57]  [ACTION]: {'Power button clicked 17 times'}
+[2025-06-23 15:45:01]  [ACTION]: {'Power button clicked 18 times'}
+[2025-06-23 15:45:06]  [ACTION]: {'Power button clicked 19 times'}
+[2025-06-23 15:45:09]  [ACTION]: {'Strategy 1: Initial attempt'}
+[2025-06-23 15:45:10]  [ACTION]: {'Attempt 1: Locating element @ //android.widget.TextView[@content-desc="Phone"]'}
+[2025-06-23 15:45:11]  [ACTION]: {'App opened successfully'}
+[2025-06-23 15:45:11]  [ACTION]: {'Strategy 1: Initial attempt'}
+[2025-06-23 15:45:12]  [ACTION]: {'Attempt 1: Locating element @ //android.widget.ImageButton[@content-desc="key pad"]'}
+[2025-06-23 15:45:13]  [ACTION]: {'App opened successfully'}
+[2025-06-23 15:45:21]  [ACTION]: {'Element found and clicked'}
+[2025-06-23 15:45:23]  [ACTION]: {'Element found and clicked'}
+[2025-06-23 15:45:23] Success: Test passed
+[L2897100765] [2025-06-23 15:45:24] : debuglogger logları C:\Users\halil.cakir\Desktop\parallel_test\Logs\L2897100765_20250623_154523 dizinine kopyalandı

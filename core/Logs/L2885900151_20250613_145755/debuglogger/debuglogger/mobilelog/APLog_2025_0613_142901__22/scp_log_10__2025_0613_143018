@@ -1,0 +1,758 @@
+----- timezone:Europe/Istanbul
+49615934860, offset:1012190965
+[819748.697]stk3a5x_read_als_data...
+[819748.897]stk3a5x_read_als_data...
+[819748.897]stk3a5x_get_als_value: als=10457, r=4643[819748.898]stk3a5x_get_als01: g=377, b=4549, c=1114
+[819748.898]stk3a5x_get_als_value: lux=10457
+[819749.097]stk3a5x_read_als_data...
+[819749.297]stk3a5x_read_als_data...
+[819749.497]stk3a5x_read_als_data...
+[819749.697]stk3a5x_read_als_data...
+[819749.897]stk3a5x_read_als_data...
+[819749.897]stk3a5x_get_als_value: als=10464, r=4645[819749.898]stk3a5x_get_als01: g=378, b=4552, c=1115
+[819749.898]stk3a5x_get_als_value: lux=10465
+[819750.097]stk3a5x_read_als_data...
+[819750.297]stk3a5x_read_als_data...
+[819750.497]stk3a5x_read_als_data...
+[819750.697]stk3a5x_read_als_data...
+[819750.897]stk3a5x_read_als_data...
+[819750.897]stk3a5x_get_als_value: als=10465, r=4646[819750.898]stk3a5x_get_als01: g=378, b=4552, c=1115
+[819750.898]stk3a5x_get_als_value: lux=10465
+[819751.097]stk3a5x_read_als_data...
+[819751.297]stk3a5x_read_als_data...
+[819751.497]stk3a5x_read_als_data...
+[819751.646]sleep: cnt=1696, total=1879710
+[819751.697]stk3a5x_read_als_data...
+[819751.897]stk3a5x_read_als_data...
+[819751.897]stk3a5x_get_als_value: als=10457, r=4643[819751.898]stk3a5x_get_als01: g=377, b=4549, c=1113
+[819751.898]stk3a5x_get_als_value: lux=10458
+[819752.097]stk3a5x_read_als_data...
+[819752.297]stk3a5x_read_als_data...
+[819752.497]stk3a5x_read_als_data...
+[819752.697]stk3a5x_read_als_data...
+[819752.897]stk3a5x_read_als_data...
+[819752.897]stk3a5x_get_als_value: als=10462, r=4645[819752.898]stk3a5x_get_als01: g=377, b=4551, c=1114
+[819752.898]stk3a5x_get_als_value: lux=10462
+[819753.097]stk3a5x_read_als_data...
+[819753.297]stk3a5x_read_als_data...
+[819753.497]stk3a5x_read_als_data...
+[819753.697]stk3a5x_read_als_data...
+[819753.897]stk3a5x_read_als_data...
+[819753.897]stk3a5x_get_als_value: als=10468, r=4647[819753.898]stk3a5x_get_als01: g=378, b=4554, c=1115
+[819753.898]stk3a5x_get_als_value: lux=10469
+[819754.097]stk3a5x_read_als_data...
+[819754.297]stk3a5x_read_als_data...
+[819754.497]stk3a5x_read_als_data...
+[819754.697]stk3a5x_read_als_data...
+[819754.897]stk3a5x_read_als_data...
+[819754.897]stk3a5x_get_als_value: als=10464, r=4645[819754.898]stk3a5x_get_als01: g=377, b=4552, c=1115
+[819754.898]stk3a5x_get_als_value: lux=10464
+[819755.097]stk3a5x_read_als_data...
+[819755.297]stk3a5x_read_als_data...
+[819755.497]stk3a5x_read_als_data...
+[819755.697]stk3a5x_read_als_data...
+[819755.897]stk3a5x_read_als_data...
+[819755.897]stk3a5x_get_als_value: als=10455, r=4642[819755.898]stk3a5x_get_als01: g=377, b=4548, c=1113
+[819755.898]stk3a5x_get_als_value: lux=10456
+[819756.097]stk3a5x_read_als_data...
+[819756.297]stk3a5x_read_als_data...
+[819756.497]stk3a5x_read_als_data...
+[819756.697]stk3a5x_read_als_data...
+[819756.897]stk3a5x_read_als_data...
+[819756.897]stk3a5x_get_als_value: als=10449, r=4638[819756.898]stk3a5x_get_als01: g=377, b=4546, c=1113
+[819756.898]stk3a5x_get_als_value: lux=10449
+[819757.097]stk3a5x_read_als_data...
+[819757.297]stk3a5x_read_als_data...
+[819757.497]stk3a5x_read_als_data...
+[819757.697]stk3a5x_read_als_data...
+[819757.897]stk3a5x_read_als_data...
+[819757.897]stk3a5x_get_als_value: als=10440, r=4635[819757.898]stk3a5x_get_als01: g=376, b=4542, c=1111
+[819757.898]stk3a5x_get_als_value: lux=10441
+[819758.097]stk3a5x_read_als_data...
+[819758.297]stk3a5x_read_als_data...
+[819758.497]stk3a5x_read_als_data...
+[819758.664]hostintf: 819758664625764, chreType:1, rate:15359, latency:80000000, cmd:1!
+[819758.664]sensorRateAcc rate:16384, latency:80000000
+[819758.664]accRateCalculate pending by:0
+[819758.665]sensorRateAcc rate:16384, latency:80000000
+[819758.665]accGyro, delay=62499840, latency:80000000, min_wm=0, total_cnt=1
+[819758.665]time_k_lib ver: STAMP_K_VER_18041204
+[819758.665]timestampk acc init 819758665135610, 40000000
+[819758.665]time_k_lib ver: STAMP_K_VER_18041204
+[819758.665]timestampk gyro init 819758665135610, 0
+[819758.665][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:80000000, watermark:1, regValue=0x00
+
+[819758.665]hostintf: 819758665930456, chreType:1, rate:15359, latency:80000000, cmd:2!
+[819758.666]sensorFlushAcc
+[819758.666]sensorFlushAcc pending by:8
+[819758.669]acc: ratechg done
+[819758.670]acc sendFlushEvt
+[819758.670]mtk_type: 1 send flush action
+[819758.697]stk3a5x_read_als_data...
+[819758.843]sync time scp:819758843166457, ap:819759854748091, offset:1012191403
+[819758.897]stk3a5x_read_als_data...
+[819758.897]stk3a5x_get_als_value: als=10414, r=4623[819758.898]stk3a5x_get_als01: g=375, b=4530, c=1109
+[819758.898]stk3a5x_get_als_value: lux=10414
+[819759.097]stk3a5x_read_als_data...
+[819759.297]stk3a5x_read_als_data...
+[819759.428]hostintf: 819759428115381, chreType:1, rate:15359, latency:100000000, cmd:1!
+[819759.428]sensorRateAcc rate:16384, latency:100000000
+[819759.428]accRateCalculate pending by:0
+[819759.428]sensorRateAcc rate:16384, latency:100000000
+[819759.428]accGyro, delay=62499840, latency:100000000, min_wm=0, total_cnt=1
+[819759.428]time_k_lib ver: STAMP_K_VER_18041204
+[819759.428]timestampk acc init 819759428634689, 40000000
+[819759.428]time_k_lib ver: STAMP_K_VER_18041204
+[819759.428]timestampk gyro init 819759428634689, 0
+[819759.428][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:100000000, watermark:1, regValue=0x00
+
+[819759.434]acc: ratechg done
+[819759.497]stk3a5x_read_als_data...
+[819759.697]stk3a5x_read_als_data...
+[819759.897]stk3a5x_read_als_data...
+[819759.897]stk3a5x_get_als_value: als=10389, r=4613[819759.898]stk3a5x_get_als01: g=374, b=4520, c=1108
+[819759.898]stk3a5x_get_als_value: lux=10390
+[819760.097]stk3a5x_read_als_data...
+[819760.297]stk3a5x_read_als_data...
+[819760.497]stk3a5x_read_als_data...
+[819760.697]stk3a5x_read_als_data...
+[819760.897]stk3a5x_read_als_data...
+[819760.897]stk3a5x_get_als_value: als=10438, r=4634[819760.898]stk3a5x_get_als01: g=376, b=4541, c=1112
+[819760.898]stk3a5x_get_als_value: lux=10438
+[819761.097]stk3a5x_read_als_data...
+[819761.297]stk3a5x_read_als_data...
+[819761.497]stk3a5x_read_als_data...
+[819761.697]stk3a5x_read_als_data...
+[819761.897]stk3a5x_read_als_data...
+[819761.897]stk3a5x_get_als_value: als=10440, r=4635[819761.898]stk3a5x_get_als01: g=376, b=4542, c=1112
+[819761.898]stk3a5x_get_als_value: lux=10441
+[819762.097]stk3a5x_read_als_data...
+[819762.297]stk3a5x_read_als_data...
+[819762.497]stk3a5x_read_als_data...
+[819762.697]stk3a5x_read_als_data...
+[819762.897]stk3a5x_read_als_data...
+[819762.897]stk3a5x_get_als_value: als=10430, r=4630[819762.898]stk3a5x_get_als01: g=376, b=4537, c=1111
+[819762.898]stk3a5x_get_als_value: lux=10430
+[819763.097]stk3a5x_read_als_data...
+[819763.297]stk3a5x_read_als_data...
+[819763.497]stk3a5x_read_als_data...
+[819763.697]stk3a5x_read_als_data...
+[819763.897]stk3a5x_read_als_data...
+[819763.897]stk3a5x_get_als_value: als=10432, r=4632[819763.898]stk3a5x_get_als01: g=376, b=4538, c=1112
+[819763.898]stk3a5x_get_als_value: lux=10433
+[819764.097]stk3a5x_read_als_data...
+[819764.297]stk3a5x_read_als_data...
+[819764.497]stk3a5x_read_als_data...
+[819764.697]stk3a5x_read_als_data...
+[819764.897]stk3a5x_read_als_data...
+[819764.897]stk3a5x_get_als_value: als=10436, r=4633[819764.898]stk3a5x_get_als01: g=376, b=4540, c=1112
+[819764.898]stk3a5x_get_als_value: lux=10436
+[819765.097]stk3a5x_read_als_data...
+[819765.297]stk3a5x_read_als_data...
+[819765.497]stk3a5x_read_als_data...
+[819765.697]stk3a5x_read_als_data...
+[819765.897]stk3a5x_read_als_data...
+[819765.897]stk3a5x_get_als_value: als=10432, r=4632[819765.898]stk3a5x_get_als01: g=376, b=4538, c=1112
+[819765.898]stk3a5x_get_als_value: lux=10433
+[819766.097]stk3a5x_read_als_data...
+[819766.297]stk3a5x_read_als_data...
+[819766.497]stk3a5x_read_als_data...
+[819766.697]stk3a5x_read_als_data...
+[819766.897]stk3a5x_read_als_data...
+[819766.897]stk3a5x_get_als_value: als=10421, r=4627[819766.898]stk3a5x_get_als01: g=376, b=4533, c=1111
+[819766.898]stk3a5x_get_als_value: lux=10421
+[819767.097]stk3a5x_read_als_data...
+[819767.297]stk3a5x_read_als_data...
+[819767.497]stk3a5x_read_als_data...
+[819767.697]stk3a5x_read_als_data...
+[819767.897]stk3a5x_read_als_data...
+[819767.897]stk3a5x_get_als_value: als=10418, r=4625[819767.898]stk3a5x_get_als01: g=375, b=4533, c=1111
+[819767.898]stk3a5x_get_als_value: lux=10419
+[819768.097]stk3a5x_read_als_data...
+[819768.297]stk3a5x_read_als_data...
+[819768.497]stk3a5x_read_als_data...
+[819768.697]stk3a5x_read_als_data...
+[819768.897]stk3a5x_read_als_data...
+[819768.897]stk3a5x_get_als_value: als=10419, r=4625[819768.898]stk3a5x_get_als01: g=376, b=4533, c=1110
+[819768.898]stk3a5x_get_als_value: lux=10419
+[819769.297]stk3a5x_read_als_data...
+[819769.497]stk3a5x_read_als_data...
+[819769.697]stk3a5x_read_als_data...
+[819769.897]stk3a5x_read_als_data...
+[819769.897]stk3a5x_get_als_value: als=10430, r=4630[819769.898]stk3a5x_get_als01: g=376, b=4538, c=1112
+[819769.898]stk3a5x_get_als_value: lux=10431
+[819770.097]stk3a5x_read_als_data...
+[819770.297]stk3a5x_read_als_data...
+[819770.490]hostintf: 819770490419715, chreType:1, rate:15359, latency:80000000, cmd:1!
+[819770.490]sensorRateAcc rate:16384, latency:80000000
+[819770.490]accRateCalculate pending by:0
+[819770.490]sensorRateAcc rate:16384, latency:80000000
+[819770.490]accGyro, delay=62499840, latency:80000000, min_wm=0, total_cnt=1
+[819770.490]time_k_lib ver: STAMP_K_VER_18041204
+[819770.490]timestampk acc init 819770490932023, 40000000
+[819770.491]time_k_lib ver: STAMP_K_VER_18041204
+[819770.491]timestampk gyro init 819770490932023, 0
+[819770.491][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:80000000, watermark:1, regValue=0x00
+
+[819770.492]hostintf: 819770492126485, chreType:1, rate:15359, latency:80000000, cmd:2!
+[819770.492]sensorFlushAcc
+[819770.492]sensorFlushAcc pending by:8
+[819770.495]acc: ratechg done
+[819770.495]acc sendFlushEvt
+[819770.495]mtk_type: 1 send flush action
+[819770.496]stk3a5x_read_als_data...
+[819770.697]stk3a5x_read_als_data...
+[819770.897]stk3a5x_read_als_data...
+[819770.897]stk3a5x_get_als_value: als=10438, r=4634[819770.898]stk3a5x_get_als01: g=376, b=4541, c=1113
+[819770.898]stk3a5x_get_als_value: lux=10438
+[819771.097]stk3a5x_read_als_data...
+[819771.297]stk3a5x_read_als_data...
+[819771.497]stk3a5x_read_als_data...
+[819771.697]stk3a5x_read_als_data...
+[819771.897]stk3a5x_read_als_data...
+[819771.897]stk3a5x_get_als_value: als=10452, r=4640[819771.898]stk3a5x_get_als01: g=377, b=4547, c=1114
+[819771.898]stk3a5x_get_als_value: lux=10453
+[819772.097]stk3a5x_read_als_data...
+[819772.297]stk3a5x_read_als_data...
+[819772.497]stk3a5x_read_als_data...
+[819772.697]stk3a5x_read_als_data...
+[819772.897]stk3a5x_read_als_data...
+[819772.897]stk3a5x_get_als_value: als=10467, r=4647[819772.898]stk3a5x_get_als01: g=377, b=4554, c=1116
+[819772.898]stk3a5x_get_als_value: lux=10467
+[819773.097]stk3a5x_read_als_data...
+[819773.297]stk3a5x_read_als_data...
+[819773.497]stk3a5x_read_als_data...
+[819773.697]stk3a5x_read_als_data...
+[819773.897]stk3a5x_read_als_data...
+[819773.897]stk3a5x_get_als_value: als=10471, r=4649[819773.898]stk3a5x_get_als01: g=377, b=4555, c=1117
+[819773.898]stk3a5x_get_als_value: lux=10472
+[819774.097]stk3a5x_read_als_data...
+[819774.297]stk3a5x_read_als_data...
+[819774.497]stk3a5x_read_als_data...
+[819774.697]stk3a5x_read_als_data...
+[819774.897]stk3a5x_read_als_data...
+[819774.897]stk3a5x_get_als_value: als=10481, r=4654[819774.898]stk3a5x_get_als01: g=377, b=4559, c=1118
+[819774.898]stk3a5x_get_als_value: lux=10481
+[819775.097]stk3a5x_read_als_data...
+[819775.297]stk3a5x_read_als_data...
+[819775.497]stk3a5x_read_als_data...
+[819775.697]stk3a5x_read_als_data...
+[819775.897]stk3a5x_read_als_data...
+[819775.897]stk3a5x_get_als_value: als=10485, r=4655[819775.898]stk3a5x_get_als01: g=378, b=4562, c=1118
+[819775.898]stk3a5x_get_als_value: lux=10486
+[819776.097]stk3a5x_read_als_data...
+[819776.297]stk3a5x_read_als_data...
+[819776.497]stk3a5x_read_als_data...
+[819776.697]stk3a5x_read_als_data...
+[819776.897]stk3a5x_read_als_data...
+[819776.897]stk3a5x_get_als_value: als=10494, r=4659[819776.898]stk3a5x_get_als01: g=378, b=4565, c=1119
+[819776.898]stk3a5x_get_als_value: lux=10494
+[819777.097]stk3a5x_read_als_data...
+[819777.297]stk3a5x_read_als_data...
+[819777.497]stk3a5x_read_als_data...
+[819777.697]stk3a5x_read_als_data...
+[819777.897]stk3a5x_read_als_data...
+[819777.897]stk3a5x_get_als_value: als=10483, r=4654[819777.898]stk3a5x_get_als01: g=378, b=4560, c=1118
+[819777.898]stk3a5x_get_als_value: lux=10484
+[819778.097]stk3a5x_read_als_data...
+[819778.297]stk3a5x_read_als_data...
+[819778.497]stk3a5x_read_als_data...
+[819778.697]stk3a5x_read_als_data...
+[819778.897]stk3a5x_read_als_data...
+[819778.897]stk3a5x_get_als_value: als=10486, r=4656[819778.898]stk3a5x_get_als01: g=377, b=4562, c=1118
+[819778.898]stk3a5x_get_als_value: lux=10486
+[819779.097]stk3a5x_read_als_data...
+[819779.297]stk3a5x_read_als_data...
+[819779.323]sync time scp:819779323909813, ap:819780335413554, offset:1012191510
+[819779.497]stk3a5x_read_als_data...
+[819779.697]stk3a5x_read_als_data...
+[819779.897]stk3a5x_read_als_data...
+[819779.897]stk3a5x_get_als_value: als=10484, r=4655[819779.898]stk3a5x_get_als01: g=378, b=4561, c=1118
+[819779.898]stk3a5x_get_als_value: lux=10485
+[819780.097]stk3a5x_read_als_data...
+[819780.297]stk3a5x_read_als_data...
+[819780.497]stk3a5x_read_als_data...
+[819780.697]stk3a5x_read_als_data...
+[819780.897]stk3a5x_read_als_data...
+[819780.897]stk3a5x_get_als_value: als=10470, r=4648[819780.898]stk3a5x_get_als01: g=377, b=4555, c=1116
+[819780.898]stk3a5x_get_als_value: lux=10470
+[819781.097]stk3a5x_read_als_data...
+[819781.297]stk3a5x_read_als_data...
+[819781.497]stk3a5x_read_als_data...
+[819781.659]sleep: cnt=1732, total=1881442
+[819781.697]stk3a5x_read_als_data...
+[819781.897]stk3a5x_read_als_data...
+[819781.897]stk3a5x_get_als_value: als=10474, r=4651[819781.898]stk3a5x_get_als01: g=377, b=4557, c=1118
+[819781.898]stk3a5x_get_als_value: lux=10475
+[819782.097]stk3a5x_read_als_data...
+[819782.297]stk3a5x_read_als_data...
+[819782.497]stk3a5x_read_als_data...
+[819782.697]stk3a5x_read_als_data...
+[819782.897]stk3a5x_read_als_data...
+[819782.897]stk3a5x_get_als_value: als=10471, r=4649[819782.898]stk3a5x_get_als01: g=377, b=4556, c=1117
+[819782.898]stk3a5x_get_als_value: lux=10471
+[819783.097]stk3a5x_read_als_data...
+[819783.296]stk3a5x_read_als_data...
+[819783.497]stk3a5x_read_als_data...
+[819783.697]stk3a5x_read_als_data...
+[819783.697]scp_ipi_send failed, enable a oneshot timer
+[819783.896]stk3a5x_read_als_data...
+[819783.897]stk3a5x_get_als_value: als=10489, r=4657[819783.897]stk3a5x_get_als01: g=377, b=4563, c=1119
+[819783.897]stk3a5x_get_als_value: lux=10490
+[819784.097]stk3a5x_read_als_data...
+[819784.297]stk3a5x_read_als_data...
+[819784.497]stk3a5x_read_als_data...
+[819784.697]stk3a5x_read_als_data...
+[819784.897]stk3a5x_read_als_data...
+[819784.897]stk3a5x_get_als_value: als=10552, r=4685[819784.898]stk3a5x_get_als01: g=380, b=4591, c=1127
+[819784.898]stk3a5x_get_als_value: lux=10552
+[819785.097]stk3a5x_read_als_data...
+[819785.297]stk3a5x_read_als_data...
+[819785.497]stk3a5x_read_als_data...
+[819785.697]stk3a5x_read_als_data...
+[819785.897]stk3a5x_read_als_data...
+[819785.897]stk3a5x_get_als_value: als=10599, r=4707[819785.898]stk3a5x_get_als01: g=381, b=4611, c=1133
+[819785.898]stk3a5x_get_als_value: lux=10600
+[819786.097]stk3a5x_read_als_data...
+[819786.297]stk3a5x_read_als_data...
+[819786.497]stk3a5x_read_als_data...
+[819786.697]stk3a5x_read_als_data...
+[819786.897]stk3a5x_read_als_data...
+[819786.897]stk3a5x_get_als_value: als=10624, r=4719[819786.898]stk3a5x_get_als01: g=381, b=4622, c=1137
+[819786.898]stk3a5x_get_als_value: lux=10624
+[819787.097]stk3a5x_read_als_data...
+[819787.297]stk3a5x_read_als_data...
+[819787.497]stk3a5x_read_als_data...
+[819787.697]stk3a5x_read_als_data...
+[819787.897]stk3a5x_read_als_data...
+[819787.897]stk3a5x_get_als_value: als=10632, r=4723[819787.898]stk3a5x_get_als01: g=381, b=4624, c=1139
+[819787.898]stk3a5x_get_als_value: lux=10633
+[819788.097]stk3a5x_read_als_data...
+[819788.297]stk3a5x_read_als_data...
+[819788.497]stk3a5x_read_als_data...
+[819788.697]stk3a5x_read_als_data...
+[819788.897]stk3a5x_read_als_data...
+[819788.897]stk3a5x_get_als_value: als=10629, r=4720[819788.898]stk3a5x_get_als01: g=381, b=4624, c=1138
+[819788.898]stk3a5x_get_als_value: lux=10629
+[819789.097]stk3a5x_read_als_data...
+[819789.297]stk3a5x_read_als_data...
+[819789.497]stk3a5x_read_als_data...
+[819789.567]sync time scp:819789567495684, ap:819790579079170, offset:1012191178
+[819789.697]stk3a5x_read_als_data...
+[819789.897]stk3a5x_read_als_data...
+[819789.897]stk3a5x_get_als_value: als=10634, r=4723[819789.898]stk3a5x_get_als01: g=381, b=4626, c=1139
+[819789.898]stk3a5x_get_als_value: lux=10635
+[819790.097]stk3a5x_read_als_data...
+[819790.297]stk3a5x_read_als_data...
+[819790.497]stk3a5x_read_als_data...
+[819790.697]stk3a5x_read_als_data...
+[819790.897]stk3a5x_read_als_data...
+[819790.897]stk3a5x_get_als_value: als=10609, r=4711[819790.898]stk3a5x_get_als01: g=381, b=4615, c=1135
+[819790.898]stk3a5x_get_als_value: lux=10609
+[819791.097]stk3a5x_read_als_data...
+[819791.297]stk3a5x_read_als_data...
+[819791.497]stk3a5x_read_als_data...
+[819791.697]stk3a5x_read_als_data...
+[819791.897]stk3a5x_read_als_data...
+[819791.897]stk3a5x_get_als_value: als=10589, r=4703[819791.898]stk3a5x_get_als01: g=381, b=4606, c=1132
+[819791.898]stk3a5x_get_als_value: lux=10590
+[819792.097]stk3a5x_read_als_data...
+[819792.297]stk3a5x_read_als_data...
+[819792.497]stk3a5x_read_als_data...
+[819792.697]stk3a5x_read_als_data...
+[819792.897]stk3a5x_read_als_data...
+[819792.897]stk3a5x_get_als_value: als=10582, r=4699[819792.898]stk3a5x_get_als01: g=380, b=4603, c=1131
+[819792.898]stk3a5x_get_als_value: lux=10582
+[819793.097]stk3a5x_read_als_data...
+[819793.297]stk3a5x_read_als_data...
+[819793.497]stk3a5x_read_als_data...
+[819793.697]stk3a5x_read_als_data...
+[819793.897]stk3a5x_read_als_data...
+[819793.897]stk3a5x_get_als_value: als=10579, r=4698[819793.898]stk3a5x_get_als01: g=380, b=4602, c=1131
+[819793.898]stk3a5x_get_als_value: lux=10580
+[819794.097]stk3a5x_read_als_data...
+[819794.297]stk3a5x_read_als_data...
+[819794.497]stk3a5x_read_als_data...
+[819794.697]stk3a5x_read_als_data...
+[819794.897]stk3a5x_read_als_data...
+[819794.897]stk3a5x_get_als_value: als=10585, r=4701[819794.898]stk3a5x_get_als01: g=381, b=4604, c=1129
+[819794.898]stk3a5x_get_als_value: lux=10585
+[819795.097]stk3a5x_read_als_data...
+[819795.297]stk3a5x_read_als_data...
+[819795.497]stk3a5x_read_als_data...
+[819795.697]stk3a5x_read_als_data...
+[819795.897]stk3a5x_read_als_data...
+[819795.897]stk3a5x_get_als_value: als=10586, r=4700[819795.898]stk3a5x_get_als01: g=381, b=4605, c=1128
+[819795.898]stk3a5x_get_als_value: lux=10587
+[819796.097]stk3a5x_read_als_data...
+[819796.297]stk3a5x_read_als_data...
+[819796.497]stk3a5x_read_als_data...
+[819796.697]stk3a5x_read_als_data...
+[819796.897]stk3a5x_read_als_data...
+[819796.897]stk3a5x_get_als_value: als=10561, r=4690[819796.898]stk3a5x_get_als01: g=380, b=4594, c=1126
+[819796.898]stk3a5x_get_als_value: lux=10561
+[819797.097]stk3a5x_read_als_data...
+[819797.297]stk3a5x_read_als_data...
+[819797.497]stk3a5x_read_als_data...
+[819797.697]stk3a5x_read_als_data...
+[819797.897]stk3a5x_read_als_data...
+[819797.897]stk3a5x_get_als_value: als=10551, r=4684[819797.898]stk3a5x_get_als01: g=380, b=4590, c=1125
+[819797.898]stk3a5x_get_als_value: lux=10552
+[819798.097]stk3a5x_read_als_data...
+[819798.297]stk3a5x_read_als_data...
+[819798.497]stk3a5x_read_als_data...
+[819798.697]stk3a5x_read_als_data...
+[819798.897]stk3a5x_read_als_data...
+[819798.897]stk3a5x_get_als_value: als=10516, r=4669[819798.898]stk3a5x_get_als01: g=379, b=4575, c=1120
+[819798.898]stk3a5x_get_als_value: lux=10516
+[819799.097]stk3a5x_read_als_data...
+[819799.297]stk3a5x_read_als_data...
+[819799.497]stk3a5x_read_als_data...
+[819799.697]stk3a5x_read_als_data...
+[819799.803]sync time scp:819799803245939, ap:819800814796940, offset:1012191077
+[819799.897]stk3a5x_read_als_data...
+[819799.897]stk3a5x_get_als_value: als=10541, r=4680[819799.898]stk3a5x_get_als01: g=380, b=4585, c=1123
+[819799.898]stk3a5x_get_als_value: lux=10542
+[819800.097]stk3a5x_read_als_data...
+[819800.297]stk3a5x_read_als_data...
+[819800.497]stk3a5x_read_als_data...
+[819800.697]stk3a5x_read_als_data...
+[819800.897]stk3a5x_read_als_data...
+[819800.897]stk3a5x_get_als_value: als=10553, r=4685[819800.898]stk3a5x_get_als01: g=381, b=4590, c=1123
+[819800.898]stk3a5x_get_als_value: lux=10553
+[819801.097]stk3a5x_read_als_data...
+[819801.259]hostintf: 819801259664327, chreType:1, rate:15359, latency:80000000, cmd:2!
+[819801.259]sensorFlushAcc
+[819801.259]sensorFlushAcc pending by:0
+[819801.259]acc sendFlushEvt
+[819801.259]mtk_type: 1 send flush action
+[819801.297]stk3a5x_read_als_data...
+[819801.497]stk3a5x_read_als_data...
+[819801.697]stk3a5x_read_als_data...
+[819801.897]stk3a5x_read_als_data...
+[819801.897]stk3a5x_get_als_value: als=10554, r=4685[819801.898]stk3a5x_get_als01: g=381, b=4591, c=1123
+[819801.898]stk3a5x_get_als_value: lux=10555
+[819802.097]stk3a5x_read_als_data...
+[819802.297]stk3a5x_read_als_data...
+[819802.496]stk3a5x_read_als_data...
+[819802.696]stk3a5x_read_als_data...
+[819802.897]stk3a5x_read_als_data...
+[819802.897]stk3a5x_get_als_value: als=10549, r=4684[819802.898]stk3a5x_get_als01: g=381, b=4589, c=1123
+[819802.898]stk3a5x_get_als_value: lux=10549
+[819803.097]stk3a5x_read_als_data...
+[819803.297]stk3a5x_read_als_data...
+[819803.497]stk3a5x_read_als_data...
+[819803.697]stk3a5x_read_als_data...
+[819803.897]stk3a5x_read_als_data...
+[819803.897]stk3a5x_get_als_value: als=10561, r=4689[819803.898]stk3a5x_get_als01: g=381, b=4593, c=1124
+[819803.898]stk3a5x_get_als_value: lux=10562
+[819804.097]stk3a5x_read_als_data...
+[819804.297]stk3a5x_read_als_data...
+[819804.497]stk3a5x_read_als_data...
+[819804.697]stk3a5x_read_als_data...
+[819804.897]stk3a5x_read_als_data...
+[819804.897]stk3a5x_get_als_value: als=10566, r=4691[819804.898]stk3a5x_get_als01: g=381, b=4596, c=1126
+[819804.898]stk3a5x_get_als_value: lux=10566
+[819805.097]stk3a5x_read_als_data...
+[819805.297]stk3a5x_read_als_data...
+[819805.497]stk3a5x_read_als_data...
+[819805.620]hostintf: 819805620733645, chreType:1, rate:51200, latency:0, cmd:1!
+[819805.620]sensorRateAcc rate:51200, latency:19999744
+[819805.620]accRateCalculate pending by:0
+[819805.621]sensorRateAcc rate:51200, latency:19999744
+[819805.621]accGyro, delay=19999744, latency:19999744, min_wm=0, total_cnt=1
+[819805.621]time_k_lib ver: STAMP_K_VER_18041204
+[819805.621]timestampk acc init 819805621234876, 20000000
+[819805.621]time_k_lib ver: STAMP_K_VER_18041204
+[819805.621]timestampk gyro init 819805621234876, 0
+[819805.621][mcube@e@0923]-@mc34x9AccRate(): acc rate:51200, latency:19999744, watermark:1, regValue=0x87
+
+[819805.622]hostintf: 819805622477876, chreType:8, rate:51200, latency:0, cmd:0!
+[819805.626]hostintf: 819805626364338, chreType:8, rate:51200, latency:0, cmd:1!
+[819805.627]sensorPowerMag on:1, nowOn:0
+[819805.627]af6133eSWreset, af6133e_SW_reset next_state = 17 
+[819805.627]af6133eEnable, next_state = 18 
+[819805.627]af6133e_Bist_init, next_state = 19 
+[819805.628]af6133e_Bist_Flow status:0, idata: -604, -267, 64, bist_count:0 
+[819805.628]af6133e_Bist_Flow +Field: 0x37 = 0x4 
+[819805.629][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.630]af6133e_Bist_Flow status:1, idata: 0, 0, 0, bist_count:0 
+[819805.630]af6133e_Bist_Flow new field first measure bist data 
+[819805.637][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.638]af6133e_Bist_Flow status:2, idata: -954, -212, -45, bist_count:0 
+[819805.644][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.645]af6133e_Bist_Flow status:2, idata: -960, -213, -46, bist_count:1 
+[819805.652][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.653]af6133e_Bist_Flow status:2, idata: -953, -212, -43, bist_count:2 
+[819805.659][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.660]af6133e_Bist_Flow status:2, idata: -955, -212, -47, bist_count:3 
+[819805.667][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.668]af6133e_Bist_Flow status:2, idata: -959, -213, -49, bist_count:4 
+[819805.668]af6133e_Bist_Flow status:0, idata: -959, -213, -49, bist_count:5 
+[819805.668]af6133e_Bist_Flow -Field: 0x37 = 0xc 
+[819805.670][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.670]af6133e_Bist_Flow status:1, idata: -959, -213, -49, bist_count:0 
+[819805.670]af6133e_Bist_Flow new field first measure bist data 
+[819805.677][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.678]af6133e_Bist_Flow status:2, idata: -173, -191, 27, bist_count:0 
+[819805.679]acc: ratechg done
+[819805.685][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.685]af6133e_Bist_Flow status:2, idata: -181, -193, 16, bist_count:1 
+[819805.692][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.693]af6133e_Bist_Flow status:2, idata: -176, -190, 21, bist_count:2 
+[819805.697]stk3a5x_read_als_data...
+[819805.699][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.700]af6133e_Bist_Flow status:2, idata: -177, -192, 20, bist_count:3 
+[819805.707][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.708]af6133e_Bist_Flow status:2, idata: -184, -193, 16, bist_count:4 
+[819805.708]af6133e_Bist_Flow bist_x:778, 20, 66, neg_num:5, bist_neg:-891, -959, 100, pos_num:5, bist_pos:-4781, -1062, -230 
+[819805.708]af6133e_Bist_Flow status:0, idata: -184, -193, 16, bist_count:5 
+[819805.708]af6133e_Bist_Flow +Field: 0x37 = 0x2 
+[819805.710][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.711]af6133e_Bist_Flow status:1, idata: -184, -193, 16, bist_count:0 
+[819805.711]af6133e_Bist_Flow new field first measure bist data 
+[819805.717][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.718]af6133e_Bist_Flow status:2, idata: -567, -561, 1, bist_count:0 
+[819805.725][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.726]af6133e_Bist_Flow status:2, idata: -568, -561, -1, bist_count:1 
+[819805.732][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.733]af6133e_Bist_Flow status:2, idata: -565, -557, -2, bist_count:2 
+[819805.740][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.741]af6133e_Bist_Flow status:2, idata: -567, -559, 1, bist_count:3 
+: -568, -558, 0, bist_count:4 
+[819805.749]af6133e_Bist_Flow status:0, idata: -568, -558, 0, bist_count:5 
+[819805.749]af6133e_Bist_Flow -Field: 0x37 = 0xa 
+[819805.750][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.751]hostintf: 819805751425646, chreType:1, rate:15359, latency:80000000, cmd:1!
+[819805.751]sensorRateAcc rate:16384, latency:80000000
+[819805.751]accRateCalculate pending by:0
+[819805.751]af6133e_Bist_Flow status:1, idata: -568, -558, 0, bist_count:0 
+[819805.751]af6133e_Bist_Flow new field first measure bist data 
+[819805.751]sensorRateAcc rate:16384, latency:80000000
+[819805.752]accGyro, delay=62499840, latency:80000000, min_wm=0, total_cnt=1
+[819805.752]time_k_lib ver: STAMP_K_VER_18041204
+[819805.752]timestampk acc init 819805752104953, 40000000
+[819805.752]time_k_lib ver: STAMP_K_VER_18041204
+[819805.752]timestampk gyro init 819805752104953, 0
+[819805.752][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:80000000, watermark:1, regValue=0x88
+
+[819805.752]hostintf: 819805752663415, chreType:8, rate:51200, latency:0, cmd:0!
+[819805.752]on or upload, type:8, rate:fffffff0, latency:ffffffffffffffff
+[819805.758][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.759]af6133e_Bist_Flow status:2, idata: -559, 160, -1, bist_count:0 
+[819805.765][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.766]af6133e_Bist_Flow status:2, idata: -568, 159, -2, bist_count:1 
+[819805.773][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.774]af6133e_Bist_Flow status:2, idata: -558, 160, 3, bist_count:2 
+[819805.780][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.781]af6133e_Bist_Flow status:2, idata: -559, 158, 4, bist_count:3 
+[819805.788][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.789]af6133e_Bist_Flow status:2, idata: -565, 157, -4, bist_count:4 
+[819805.789]af6133e_Bist_Flow bist_y:5, 718, 0, neg_num:5, bist_neg:-2809, 794, 0, pos_num:5, bist_pos:-2835, -2796, -1 
+[819805.789]af6133e_Bist_Flow status:0, idata: -565, 157, -4, bist_count:5 
+[819805.789]af6133e_Bist_Flow +Field: 0x37 = 0x1 
+[819805.791]af6133e_Bist_Flow status:1, idata: -565, 157, -4, bist_count:0 
+[819805.791]af6133e_Bist_Flow new field first measure bist data 
+[819805.797][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.798]af6133e_Bist_Flow status:2, idata: -560, -199, -394, bist_count:0 
+[819805.805][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.805]af6133e_Bist_Flow status:2, idata: -566, -201, -396, bist_count:1 
+[819805.810]acc: ratechg done
+[819805.812][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.813]af6133e_Bist_Flow status:2, idata: -561, -203, -392, bist_count:2 
+[819805.820][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.820]af6133e_Bist_Flow status:2, idata: -566, -198, -394, bist_count:3 
+[819805.827][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.828]af6133e_Bist_Flow status:2, idata: -564, -198, -400, bist_count:4 
+[819805.828]af6133e_Bist_Flow status:0, idata: -564, -198, -400, bist_count:5 
+[819805.828]af6133e_Bist_Flow -Field: 0x37 = 0x9 
+[819805.830][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.831]af6133e_Bist_Flow status:1, idata: -564, -198, -400, bist_count:0 
+[819805.831]af6133e_Bist_Flow new field first measure bist data 
+[819805.837][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.838]af6133e_Bist_Flow status:2, idata: -561, -198, 394, bist_count:0 
+[819805.845][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.846]af6133e_Bist_Flow status:2, idata: -566, -205, 391, bist_count:1 
+[819805.852][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.853]af6133e_Bist_Flow status:2, idata: -560, -199, 393, bist_count:2 
+N, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.861]af6133e_Bist_Flow status:2, idata: -564, -197, 392, bist_count:3 
+[819805.867][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.868]af6133e_Bist_Flow status:2, idata: -564, -202, 390, bist_count:4 
+[819805.868]af6133e_Bist_Flow bist_z:0, 0, 787, neg_num:5, bist_neg:-2815, -1001, 1960, pos_num:5, bist_pos:-2817, -999, -1976 
+[819805.868]af6133e_Bist_Flow close 8M 
+[819805.874][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[819805.875]af6133e_Bist_end, next_state=4 
+[819805.875]af6133e_Bist: bisc_x: 778, 20, 66 
+[819805.875]af6133e_Bist: bisc_y: 5, 718, 0 
+[819805.875]af6133e_Bist: bisc_z: 0, 0, 787 
+[819805.875]af6133e_Bist: gain: 106, 112, 107 (x100)
+[819805.875]af6133e_Bist: coeff: 0, -3, -8, 0 (x100)
+[819805.875]af6133e: Init successfully! 
+[819805.875]mag: enable done
+[819805.875]sensorPowerMag on:0, nowOn:1
+[819805.875]af6133eDisable, next_state = 6 
+[819805.875]mag: disable done
+[819805.897]stk3a5x_read_als_data...
+[819805.897]stk3a5x_get_als_value: als=10573, r=4694[819805.898]stk3a5x_get_als01: g=381, b=4599, c=1127
+[819805.898]stk3a5x_get_als_value: lux=10574
+[819806.097]stk3a5x_read_als_data...
+[819806.297]stk3a5x_read_als_data...
+[819806.497]stk3a5x_read_als_data...
+[819806.695]hostintf: 819806695193571, chreType:1, rate:15359, latency:100000000, cmd:1!
+[819806.695]sensorRateAcc rate:16384, latency:100000000
+[819806.695]accRateCalculate pending by:0
+[819806.695]sensorRateAcc rate:16384, latency:100000000
+[819806.695]accGyro, delay=62499840, latency:100000000, min_wm=0, total_cnt=1
+[819806.695]time_k_lib ver: STAMP_K_VER_18041204
+[819806.695]timestampk acc init 819806695718494, 40000000
+[819806.695]time_k_lib ver: STAMP_K_VER_18041204
+[819806.695]timestampk gyro init 819806695718494, 0
+[819806.695][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:100000000, watermark:1, regValue=0x00
+
+[819806.697]stk3a5x_read_als_data...
+[819806.698]acc: ratechg done
+[819806.897]stk3a5x_read_als_data...
+[819806.897]stk3a5x_get_als_value: als=10574, r=4694[819806.898]stk3a5x_get_als01: g=381, b=4600, c=1126
+[819806.898]stk3a5x_get_als_value: lux=10574
+[819807.097]stk3a5x_read_als_data...
+[819807.297]stk3a5x_read_als_data...
+[819807.497]stk3a5x_read_als_data...
+[819807.697]stk3a5x_read_als_data...
+[819807.897]stk3a5x_read_als_data...
+[819807.897]stk3a5x_get_als_value: als=10583, r=4699[819807.898]stk3a5x_get_als01: g=382, b=4603, c=1128
+[819807.898]stk3a5x_get_als_value: lux=10584
+[819808.097]stk3a5x_read_als_data...
+[819808.297]stk3a5x_read_als_data...
+[819808.497]stk3a5x_read_als_data...
+[819808.697]stk3a5x_read_als_data...
+[819808.897]stk3a5x_read_als_data...
+[819808.897]stk3a5x_get_als_value: als=10569, r=4692[819808.898]stk3a5x_get_als01: g=381, b=4598, c=1125
+[819808.898]stk3a5x_get_als_value: lux=10569
+[819809.097]stk3a5x_read_als_data...
+[819809.297]stk3a5x_read_als_data...
+[819809.497]stk3a5x_read_als_data...
+[819809.697]stk3a5x_read_als_data...
+[819809.897]stk3a5x_read_als_data...
+[819809.897]stk3a5x_get_als_value: als=10580, r=4697[819809.898]stk3a5x_get_als01: g=381, b=4602, c=1127
+[819809.898]stk3a5x_get_als_value: lux=10581
+[819810.043]sync time scp:819810043356348, ap:819811054818171, offset:1012191284
+[819810.097]stk3a5x_read_als_data...
+[819810.297]stk3a5x_read_als_data...
+[819810.497]stk3a5x_read_als_data...
+[819810.697]stk3a5x_read_als_data...
+[819810.897]stk3a5x_read_als_data...
+[819810.897]stk3a5x_get_als_value: als=10589, r=4701[819810.898]stk3a5x_get_als01: g=382, b=4606, c=1128
+[819810.898]stk3a5x_get_als_value: lux=10589
+[819811.097]stk3a5x_read_als_data...
+[819811.297]stk3a5x_read_als_data...
+[819811.497]stk3a5x_read_als_data...
+[819811.665]sleep: cnt=1736, total=1883178
+[819811.697]stk3a5x_read_als_data...
+[819811.897]stk3a5x_read_als_data...
+[819811.897]stk3a5x_get_als_value: als=10590, r=4702[819811.898]stk3a5x_get_als01: g=382, b=4606, c=1128
+[819811.898]stk3a5x_get_als_value: lux=10591
+[819812.097]stk3a5x_read_als_data...
+[819812.297]stk3a5x_read_als_data...
+[819812.497]stk3a5x_read_als_data...
+[819812.697]stk3a5x_read_als_data...
+[819812.897]stk3a5x_read_als_data...
+[819812.897]stk3a5x_get_als_value: als=10583, r=4698[819812.898]stk3a5x_get_als01: g=382, b=4604, c=1127
+[819812.898]stk3a5x_get_als_value: lux=10583
+[819813.097]stk3a5x_read_als_data...
+[819813.297]stk3a5x_read_als_data...
+[819813.497]stk3a5x_read_als_data...
+[819813.697]stk3a5x_read_als_data...
+[819813.897]stk3a5x_read_als_data...
+[819813.897]stk3a5x_get_als_value: als=10581, r=4698[819813.898]stk3a5x_get_als01: g=382, b=4603, c=1127
+[819813.898]stk3a5x_get_als_value: lux=10582
+[819814.097]stk3a5x_read_als_data...
+[819814.297]stk3a5x_read_als_data...
+[819814.497]stk3a5x_read_als_data...
+[819814.697]stk3a5x_read_als_data...
+[819814.897]stk3a5x_read_als_data...
+[819814.897]stk3a5x_get_als_value: als=10591, r=4702[819814.897]stk3a5x_get_als01: g=382, b=4607, c=1128
+[819814.898]stk3a5x_get_als_value: lux=10591
+[819815.096]stk3a5x_read_als_data...
+[819815.297]stk3a5x_read_als_data...
+[819815.297]scp_ipi_send failed, enable a oneshot timer
+[819815.496]stk3a5x_read_als_data...
+[819815.697]stk3a5x_read_als_data...
+[819815.897]stk3a5x_read_als_data...
+[819815.897]stk3a5x_get_als_value: als=10593, r=4703[819815.898]stk3a5x_get_als01: g=382, b=4608, c=1129
+[819815.898]stk3a5x_get_als_value: lux=10594
+[819816.097]stk3a5x_read_als_data...
+[819816.297]stk3a5x_read_als_data...
+[819816.497]stk3a5x_read_als_data...
+[819816.697]stk3a5x_read_als_data...
+[819816.897]stk3a5x_read_als_data...
+[819816.897]stk3a5x_get_als_value: als=10602, r=4707[819816.898]stk3a5x_get_als01: g=382, b=4612, c=1130
+[819816.898]stk3a5x_get_als_value: lux=10602
+[819817.097]stk3a5x_read_als_data...
+[819817.297]stk3a5x_read_als_data...
+[819817.497]stk3a5x_read_als_data...
+[819817.697]stk3a5x_read_als_data...
+[819817.897]stk3a5x_read_als_data...
+[819817.897]stk3a5x_get_als_value: als=10601, r=4708[819817.898]stk3a5x_get_als01: g=382, b=4611, c=1131
+[819817.898]stk3a5x_get_als_value: lux=10602
+[819818.097]stk3a5x_read_als_data...
+[819818.297]stk3a5x_read_als_data...
+[819818.497]stk3a5x_read_als_data...
+[819818.697]stk3a5x_read_als_data...
+[819818.897]stk3a5x_read_als_data...
+[819818.897]stk3a5x_get_als_value: als=10607, r=4709[819818.898]stk3a5x_get_als01: g=382, b=4614, c=1131
+[819818.898]stk3a5x_get_als_value: lux=10607
+[819819.097]stk3a5x_read_als_data...
+[819819.297]stk3a5x_read_als_data...
+[819819.497]stk3a5x_read_als_data...
+[819819.697]stk3a5x_read_als_data...
+[819819.897]stk3a5x_read_als_data...
+[819819.897]stk3a5x_get_als_value: als=10610, r=4711[819819.898]stk3a5x_get_als01: g=382, b=4615, c=1132
+[819819.898]stk3a5x_get_als_value: lux=10611
+[819820.097]stk3a5x_read_als_data...
+[819820.287]sync time scp:819820287714526, ap:819821299278172, offset:1012190415
+[819820.297]stk3a5x_read_als_data...
+[819820.497]stk3a5x_read_als_data...
+[819820.697]stk3a5x_read_als_data...
+[819820.897]stk3a5x_read_als_data...
+[819820.897]stk3a5x_get_als_value: als=10610, r=4712[819820.898]stk3a5x_get_als01: g=382, b=4615, c=1132
+[819820.898]stk3a5x_get_als_value: lux=10610
+[819821.097]stk3a5x_read_als_data...
+[819821.297]stk3a5x_read_als_data...
+[819821.497]stk3a5x_read_als_data...
+[819821.697]stk3a5x_read_als_data...
+[819821.897]stk3a5x_read_als_data...
+[819821.897]stk3a5x_get_als_value: als=10610, r=4711[819821.898]stk3a5x_get_als01: g=382, b=4615, c=1132
+[819821.898]stk3a5x_get_als_value: lux=10611
+[819822.097]stk3a5x_read_als_data...
+[819822.297]stk3a5x_read_als_data...
+[819822.497]stk3a5x_read_als_data...
+[819822.697]stk3a5x_read_als_data...
+[819822.897]stk3a5x_read_als_data...
+[819822.897]stk3a5x_get_als_value: als=10602, r=4707[819822.898]stk3a5x_get_als01: g=382, b=4611, c=1130
+[819822.898]stk3a5x_get_als_value: lux=10602
+[819823.097]stk3a5x_read_als_data...
+[819823.297]stk3a5x_read_als_data...
+[819823.497]stk3a5x_read_als_data...
+[819823.697]stk3a5x_read_als_data...
+[819823.897]stk3a5x_read_als_data...
+[819823.897]stk3a5x_get_als_value: als=10589, r=4702[819823.898]stk3a5x_get_als01: g=382, b=4606, c=1129
+[819823.898]stk3a5x_get_als_value: lux=10590
+[819824.097]stk3a5x_read_als_data...
+[819824.297]stk3a5x_read_als_data...
+[819824.497]stk3a5x_read_als_data...
+[819824.697]stk3a5x_read_als_data...
+[819824.897]stk3a5x_read_als_data...
+[819824.897]stk3a5x_get_als_value: als=10588, r=4701[819824.898]stk3a5x_get_als01: g=382, b=4605, c=1129
+[819824.898]stk3a5x_get_als_value: lux=10588
+[819825.097]stk3a5x_read_als_data...
+[819825.297]stk3a5x_read_als_data...
+[819825.497]stk3a5x_read_als_data...
+[819825.697]stk3a5x_read_als_data...
+[819825.897]stk3a5x_read_als_data...
+[819825.897]stk3a5x_get_als_value: als=10583, r=4699[819825.898]stk3a5x_get_als01: g=381, b=4604, c=1128
+[819825.898]stk3a5x_get_als_value: lux=10584
+[819826.097]stk3a5x_read_als_data...
+[819826.297]stk3a5x_read_als_data...
+[819826.497]stk3a5x_read_als_data...
+

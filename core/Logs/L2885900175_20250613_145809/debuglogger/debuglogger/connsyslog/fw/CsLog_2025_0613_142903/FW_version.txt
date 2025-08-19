@@ -1,0 +1,1 @@
+[wifi_fw_version]: t-neptune-mp-soc1_0e1-2015-TALBOT_SOC1_0_E1_ASIC-20240715120601

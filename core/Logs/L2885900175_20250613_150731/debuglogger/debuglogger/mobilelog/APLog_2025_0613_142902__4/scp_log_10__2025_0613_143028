@@ -1,0 +1,286 @@
+----- timezone:Europe/Istanbul
+00000000
+[306895.442]accGyro, delay=62499840, latency:100000000, min_wm=0, total_cnt=1
+[306895.442]time_k_lib ver: STAMP_K_VER_18041204
+[306895.442]timestampk acc init 306895442559157, 40000000
+[306895.442]time_k_lib ver: STAMP_K_VER_18041204
+[306895.442]timestampk gyro init 306895442559157, 0
+[306895.442][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:100000000, watermark:1, regValue=0x88
+
+[306895.503]acc: ratechg done
+[306902.113]sync time scp:306902113499788, ap:306903125033315, offset:1012786757
+[306912.352]sync time scp:306912352595505, ap:306913364826470, offset:1012786965
+[306917.000]sleep: cnt=1343, total=1900969
+[306922.592]sync time scp:306922592576683, ap:306923604873932, offset:1012786864
+[306932.835]sync time scp:306932835845707, ap:306933845365009, offset:1012786994
+[306943.073]sync time scp:306943073349963, ap:306944085083779, offset:1012786431
+[306947.004]sleep: cnt=1598, total=1902567
+[306953.317]sync time scp:306953317980449, ap:306954330018780, offset:1012786638
+[306963.553]sync time scp:306963553060858, ap:306964565170857, offset:1012786922
+[306973.792]sync time scp:306973792860190, ap:306974804940012, offset:1012786514
+[306977.014]sleep: cnt=1589, total=1904156
+[306977.554]hostintf: 306977554082737, chreType:1, rate:15359, latency:80000000, cmd:1!
+[306977.554]sensorRateAcc rate:16384, latency:80000000
+[306977.554]accRateCalculate pending by:0
+[306977.554]sensorRateAcc rate:16384, latency:80000000
+[306977.554]accGyro, delay=62499840, latency:80000000, min_wm=0, total_cnt=1
+[306977.554]time_k_lib ver: STAMP_K_VER_18041204
+[306977.554]timestampk acc init 306977554598122, 40000000
+[306977.554]time_k_lib ver: STAMP_K_VER_18041204
+[306977.554]timestampk gyro init 306977554598122, 0
+[306977.554][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:80000000, watermark:1, regValue=0x00
+
+977.560]sensorFlushAcc
+[306977.560]acc sendFlushEvt
+[306977.560]mtk_type: 1 send flush action
+[306984.033]sync time scp:306984033658983, ap:306985045347474, offset:1012786337
+[306994.272]sync time scp:306994272823008, ap:306995284906782, offset:1012786235
+[307004.512]sync time scp:307004512746725, ap:307005524926860, offset:1012786596
+[307007.021]sleep: cnt=1606, total=1905762
+[307012.557]hostintf: 307012557249821, chreType:1, rate:51200, latency:0, cmd:1!
+[307012.557]sensorRateAcc rate:51200, latency:19999744
+[307012.557]accRateCalculate pending by:0
+[307012.557]sensorRateAcc rate:51200, latency:19999744
+[307012.557]accGyro, delay=19999744, latency:19999744, min_wm=0, total_cnt=1
+[307012.557]time_k_lib ver: STAMP_K_VER_18041204
+[307012.557]timestampk acc init 307012557752974, 20000000
+[307012.557]time_k_lib ver: STAMP_K_VER_18041204
+[307012.557]timestampk gyro init 307012557752974, 0
+[307012.557][mcube@e@0923]-@mc34x9AccRate(): acc rate:51200, latency:19999744, watermark:1, regValue=0x87
+
+[307012.565]hostintf: 307012565646821, chreType:8, rate:51200, latency:0, cmd:0!
+[307012.567]hostintf: 307012567566205, chreType:8, rate:51200, latency:0, cmd:1!
+[307012.568]sensorPowerMag on:1, nowOn:0
+[307012.568]af6133eSWreset, af6133e_SW_reset next_state = 17 
+[307012.568]af6133eEnable, next_state = 18 
+[307012.568]af6133e_Bist_init, next_state = 19 
+[307012.569]af6133e_Bist_Flow status:0, idata: -475, -229, 188, bist_count:0 
+[307012.569]af6133e_Bist_Flow +Field: 0x37 = 0x4 
+[307012.570][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.571]af6133e_Bist_Flow status:1, idata: 0, 0, 0, bist_count:0 
+[307012.571]af6133e_Bist_Flow new field first measure bist data 
+[307012.578][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.579]af6133e_Bist_Flow status:2, idata: -873, -248, 178, bist_count:0 
+[307012.585][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.586]af6133e_Bist_Flow status:2, idata: -882, -253, 179, bist_count:1 
+[307012.593][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.594]af6133e_Bist_Flow status:2, idata: -875, -248, 177, bist_count:2 
+[307012.600][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.601]af6133e_Bist_Flow status:2, idata: -878, -247, 179, bist_count:3 
+[307012.608][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.609]af6133e_Bist_Flow status:2, idata: -880, -252, 174, bist_count:4 
+[307012.609]af6133e_Bist_Flow status:0, idata: -880, -252, 174, bist_count:5 
+[307012.609]af6133e_Bist_Flow -Field: 0x37 = 0xc 
+[307012.610][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.611]af6133e_Bist_Flow status:1, idata: -880, -252, 174, bist_count:0 
+[307012.611]af6133e_Bist_Flow new field first measure bist data 
+[307012.612]acc: ratechg done
+[307012.618][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.619]af6133e_Bist_Flow status:2, idata: -84, -221, 207, bist_count:0 
+[307012.625][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.626]af6133e_Bist_Flow status:2, idata: -92, -219, 205, bist_count:1 
+[307012.633][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.634]af6133e_Bist_Flow status:2, idata: -84, -218, 204, bist_count:2 
+[307012.640][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.641]af6133e_Bist_Flow status:2, idata: -86, -220, 208, bist_count:3 
+[307012.647][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.648]af6133e_Bist_Flow status:2, idata: -89, -221, 204, bist_count:4 
+[307012.648]af6133e_Bist_Flow bist_x:790, 29, 28, neg_num:5, bist_neg:-435, -1099, 1028, pos_num:5, bist_pos:-4388, -1248, 887 
+[307012.649]af6133e_Bist_Flow status:0, idata: -89, -221, 204, bist_count:5 
+[307012.649]af6133e_Bist_Flow +Field: 0x37 = 0x2 
+[307012.650]af6133e_Bist_Flow status:1, idata: -89, -221, 204, bist_count:0 
+[307012.650]af6133e_Bist_Flow new field first measure bist data 
+[307012.657][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.658]af6133e_Bist_Flow status:2, idata: -482, -644, 240, bist_count:0 
+[307012.664][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.665]af6133e_Bist_Flow status:2, idata: -491, -650, 238, bist_count:1 
+[307012.672][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.673]af6133e_Bist_Flow status:2, idata: -483, -645, 234, bist_count:2 
+[307012.679][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.680]af6133e_Bist_Flow status:2, idata: -480, -647, 238, bist_count:3 
+[307012.686][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.687]af6133e_Bist_Flow status:2, idata: -486, -646, 234, bist_count:4 
+[307012.687]af6133e_Bist_Flow status:0, idata: -486, -646, 234, bist_count:5 
+[307012.688]af6133e_Bist_Flow -Field: 0x37 = 0xa 
+[307012.689][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.690]af6133e_Bist_Flow status:1, idata: -486, -646, 234, bist_count:0 
+[307012.690]af6133e_Bist_Flow new field first measure bist data 
+[307012.697][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.697]af6133e_Bist_Flow status:2, idata: -474, 180, 140, bist_count:0 
+[307012.704][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.705]af6133e_Bist_Flow status:2, idata: -480, 178, 139, bist_count:1 
+[307012.712][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.712]af6133e_Bist_Flow status:2, idata: -476, 178, 140, bist_count:2 
+[307012.719][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.720]af6133e_Bist_Flow status:2, idata: -474, 177, 139, bist_count:3 
+[307012.726][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.727]af6133e_Bist_Flow status:2, idata: -480, 175, 138, bist_count:4 
+[307012.727]af6133e_Bist_Flow bist_y:7, 824, -97, neg_num:5, bist_neg:-2384, 888, 696, pos_num:5, bist_pos:-2422, -3232, 1184 
+[307012.728]af6133e_Bist_Flow status:0, idata: -480, 175, 138, bist_count:5 
+[307012.728]af6133e_Bist_Flow +Field: 0x37 = 0x1 
+[307012.729][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.730]af6133e_Bist_Flow status:1, idata: -480, 175, 138, bist_count:0 
+[307012.730]af6133e_Bist_Flow new field first measure bist data 
+[307012.737][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.738]af6133e_Bist_Flow status:2, idata: -474, -232, -34, bist_count:0 
+[307012.744][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.745]af6133e_Bist_Flow status:2, idata: -481, -235, -35, bist_count:1 
+[307012.752][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.753]af6133e_Bist_Flow status:2, idata: -477, -232, -35, bist_count:2 
+[307012.759][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.760]af6133e_Bist_Flow status:2, idata: -478, -233, -37, bist_count:3 
+[307012.766][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.767]af6133e_Bist_Flow status:2, idata: -483, -235, -34, bist_count:4 
+[307012.768]af6133e_Bist_Flow status:0, idata: -483, -235, -34, bist_count:5 
+[307012.768]af6133e_Bist_Flow -Field: 0x37 = 0x9 
+[307012.769][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.770]af6133e_Bist_Flow status:1, idata: -483, -235, -34, bist_count:0 
+[307012.770]af6133e_Bist_Flow new field first measure bist data 
+[307012.777][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.777]af6133e_Bist_Flow status:2, idata: -475, -231, 411, bist_count:0 
+[307012.784][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.785]af6133e_Bist_Flow status:2, idata: -485, -236, 410, bist_count:1 
+[307012.792][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.792]af6133e_Bist_Flow status:2, idata: -481, -229, 409, bist_count:2 
+[307012.799][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.800]af6133e_Bist_Flow status:2, idata: -477, -235, 414, bist_count:3 
+[307012.807][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.807]af6133e_Bist_Flow status:2, idata: -485, -236, 409, bist_count:4 
+[307012.807]af6133e_Bist_Flow bist_z:-2, 0, 445, neg_num:5, bist_neg:-2403, -1167, 2053, pos_num:5, bist_pos:-2393, -1167, -175 
+[307012.808]af6133e_Bist_Flow close 8M 
+[307012.813][DMGR] WARN, Access DRAM in ISR, PC=0x81a00, MMFAR=0xe000ed34!!!
+[307012.814]af6133e_Bist_end, next_state=4 
+[307012.814]af6133e_Bist: bisc_x: 790, 29, 28 
+[307012.814]af6133e_Bist: bisc_y: 7, 824, -97 
+[307012.814]af6133e_Bist: bisc_z: -2, 0, 445 
+[307012.814]af6133e_Bist: gain: 108, 101, 196 (x100)
+[307012.814]af6133e_Bist: coeff: -1, -3, -7, 22 (x100)
+[307012.814]af6133e: Init successfully! 
+[307012.814]mag: enable done
+[307012.814]sensorRateMag, rate:51200, latency:19999744
+[307012.814]af6133eRate, next_state = 8 
+[307012.814]af6133eRate: 51200, water_mark:0
+[307012.814]mag intrMode: MU, timerDelay:20000000
+[307012.814]mag: ratechg done
+[307012.835][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.836]af6133eReadTemp, next_state = 29 
+[307012.836]af6133eSample, next_state = 1 
+[307012.836]af6133eConvert, next_state = 2 
+[307012.836]af6133e: (int16_t) mag_data: -472, -229, 188 
+[307012.836]af6133e: (float) mag_data: -472, -229, 188 
+[307012.836]af6133e: comp gain mag_data: -513, -232, 370 
+[307012.836]af6133e: comp coeff mag_data: 511, 212, -357 
+[307012.836]af6133e: change axis mag_data: -511, 212, 357 
+[307012.836]af6133e: convert from count to uT mag_data: -7667, 3192, 5358 (uT)(x100)
+[307012.837]scp_ipi_send failed, enable a oneshot timer
+[307012.855][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.855]af6133eReadTemp, next_state = 29 
+[307012.856]af6133eSample, next_state = 1 
+[307012.856]af6133eConvert, next_state = 2 
+[307012.856]af6133e: (int16_t) mag_data: -484, -233, 185 
+[307012.856]af6133e: (float) mag_data: -484, -233, 185 
+[307012.856]af6133e: comp gain mag_data: -526, -236, 364 
+[307012.856]af6133e: comp coeff mag_data: 524, 216, -351 
+[307012.856]af6133e: change axis mag_data: -524, 216, 351 
+[307012.856]af6133e: convert from count to uT mag_data: -7862, 3246, 5271 (uT)(x100)
+[307012.874][DMGR] WARN, Access DRAM in CRITICAL SECTION, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.875]af6133eReadTemp, next_state = 29 
+[307012.875]af6133eSample, next_state = 1 
+[307012.876]af6133eConvert, next_state = 2 
+[307012.876]af6133e: (int16_t) mag_data: -479, -232, 184 
+[307012.876]af6133e: (float) mag_data: -479, -232, 184 
+[307012.876]af6133e: comp gain mag_data: -521, -235, 362 
+[307012.876]af6133e: comp coeff mag_data: 518, 215, -349 
+[307012.876]af6133e: change axis mag_data: -518, 215, 349 
+[307012.876]af6133e: convert from count to uT mag_data: -7781, 3234, 5238 (uT)(x100)
+[307012.895][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.895]af6133eReadTemp, next_state = 29 
+[307012.896]af6133eSample, next_state = 1 
+[307012.896]af6133eConvert, next_state = 2 
+[307012.896]af6133e: (int16_t) mag_data: -482, -230, 185 
+[307012.896]af6133e: (float) mag_data: -482, -230, 185 
+[307012.896]af6133e: comp gain mag_data: -524, -233, 364 
+[307012.896]af6133e: comp coeff mag_data: 522, 213, -351 
+[307012.896]af6133e: change axis mag_data: -522, 213, 351 
+[307012.896]af6133e: convert from count to uT mag_data: -7830, 3201, 5278 (uT)(x100)
+[307012.914][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.915]af6133eReadTemp, next_state = 29 
+[307012.915]af6133eSample, next_state = 1 
+[307012.916]af6133eConvert, next_state = 2 
+[307012.916]af6133e: (int16_t) mag_data: -481, -234, 186 
+[307012.916]af6133e: (float) mag_data: -481, -234, 186 
+[307012.916]af6133e: comp gain mag_data: -523, -237, 366 
+[307012.916]af6133e: comp coeff mag_data: 520, 217, -352 
+[307012.916]af6133e: change axis mag_data: -520, 217, 352 
+[307012.916]af6133e: convert from count to uT mag_data: -7813, 3263, 5293 (uT)(x100)
+[307012.935][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.935]af6131 
+[307012.936]af6133eConvert, next_state = 2 
+[307012.936]af6133e: (int16_t) mag_data: -483, -234, 186 
+[307012.936]af6133e: (float) mag_data: -483, -234, 186 
+[307012.936]af6133e: comp gain mag_data: -525, -237, 366 
+[307012.936]af6133e: comp coeff mag_data: 523, 217, -353 
+[307012.936]af6133e: change axis mag_data: -523, 217, 353 
+[307012.936]af6133e: convert from count to uT mag_data: -7846, 3262, 5296 (uT)(x100)
+[307012.954][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.955]af6133eReadTemp, next_state = 29 
+[307012.955]af6133eSample, next_state = 1 
+[307012.956]af6133eConvert, next_state = 2 
+[307012.956]af6133e: (int16_t) mag_data: -481, -233, 187 
+[307012.956]af6133e: (float) mag_data: -481, -233, 187 
+[307012.956]af6133e: comp gain mag_data: -523, -236, 368 
+[307012.956]af6133e: comp coeff mag_data: 520, 216, -355 
+[307012.956]af6133e: change axis mag_data: -520, 216, 355 
+[307012.956]af6133e: convert from count to uT mag_data: -7813, 3248, 5326 (uT)(x100)
+[307012.975][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.976]af6133eReadTemp, next_state = 29 
+[307012.976]af6133eSample, next_state = 1 
+[307012.976]af6133eConvert, next_state = 2 
+[307012.976]af6133e: (int16_t) mag_data: -482, -234, 188 
+[307012.976]af6133e: (float) mag_data: -482, -234, 188 
+[307012.976]af6133e: comp gain mag_data: -524, -237, 370 
+[307012.976]af6133e: comp coeff mag_data: 521, 217, -356 
+[307012.976]af6133e: change axis mag_data: -521, 217, 356 
+[307012.976]af6133e: convert from count to uT mag_data: -7829, 3262, 5353 (uT)(x100)
+[307012.995][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307012.995]af6133eReadTemp, next_state = 29 
+[307012.996]af6133eSample, next_state = 1 
+[307012.996]af6133eConvert, next_state = 2 
+[307012.996]af6133e: (int16_t) mag_data: -482, -231, 190 
+[307012.996]af6133e: (float) mag_data: -482, -231, 190 
+[307012.996]af6133e: comp gain mag_data: -524, -234, 374 
+[307012.996]af6133e: comp coeff mag_data: 522, 214, -361 
+[307012.996]af6133e: change axis mag_data: -522, 214, 361 
+[307012.996]af6133e: convert from count to uT mag_data: -7830, 3217, 5423 (uT)(x100)
+[307013.015][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307013.015]af6133eReadTemp, next_state = 29 
+[307013.016]af6133eSample, next_state = 1 
+[307013.016]af6133eConvert, next_state = 2 
+[307013.016]af6133e: (int16_t) mag_data: -485, -233, 187 
+[307013.016]af6133e: (float) mag_data: -485, -233, 187 
+[307013.016]af6133e: comp gain mag_data: -528, -236, 368 
+[307013.016]af6133e: comp coeff mag_data: 525, 216, -355 
+[307013.016]af6133e: change axis mag_data: -525, 216, 355 
+[307013.016]af6133e: convert from count to uT mag_data: -7879, 3245, 5331 (uT)(x100)
+[307013.030]hostintf: 307013030671745, chreType:1, rate:15359, latency:100000000, cmd:1!
+[307013.030]sensorRateAcc rate:16384, latency:100000000
+[307013.030]accRateCalculate pending by:0
+[307013.030]accGyro CHISC pending by:0
+[307013.031]sensorRateAcc rate:16384, latency:100000000
+[307013.031]accGyro, delay=62499840, latency:100000000, min_wm=0, total_cnt=1
+[307013.031]time_k_lib ver: STAMP_K_VER_18041204
+[307013.031]timestampk acc init 307013031299360, 40000000
+[307013.031]time_k_lib ver: STAMP_K_VER_18041204
+[307013.031]timestampk gyro init 307013031299360, 0
+[307013.031][mcube@e@0923]-@mc34x9AccRate(): acc rate:16384, latency:100000000, watermark:1, regValue=0x88
+
+[307013.031]accGyro CHISC pending by:8
+[307013.035][DMGR] WARN, Access DRAM in ISR, PC=0x80010, MMFAR=0xe000ed34!!!
+[307013.036]af6133eReadTemp, next_state = 29 
+[307013.036]af6133eSample, next_state = 1 
+[307013.036]af6133eConvert, next_state = 2 
+[307013.036]af6133e: (int16_t) mag_data: -484, -235, 189 
+[307013.036]af6133e: (float) mag_data: -484, -235, 189 
+[307013.036]af6133e: comp gain mag_data: -526, -238, 372 
+[307013.036]af6133e: comp coeff mag_data: 524, 218, -358 
+[307013.036]af6133e: change axis mag_data: -52

@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "name": "L2885900115",
+      "port": 4723,
+      "app_package": "com.android.chrome",
+      "app_activity": "com.google.android.apps.chrome.Main",
+      "automation_name": "UiAutomator2",
+      "no_reset": true,
+      "new_command_timeout": 300
+    },
+    {
+      "name": "L2904704460",
+      "port": 4725,
+      "app_package": "com.sec.android.app.sbrowser",
+      "app_activity": "com.sec.android.app.sbrowser.SBrowserMainActivity",
+      "automation_name": "UiAutomator2",
+      "no_reset": true,
+      "new_command_timeout": 300
+    }
+  ]
+}

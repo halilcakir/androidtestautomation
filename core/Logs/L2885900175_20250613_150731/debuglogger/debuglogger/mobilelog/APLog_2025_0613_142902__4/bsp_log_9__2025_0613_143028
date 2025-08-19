@@ -1,0 +1,576 @@
+----- timezone:Europe/Istanbul
+              sh-16927 [006] d..2 61874.290994: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=16922 grp=1 res=1
+              sh-16929 [006] d..2 61874.307312: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1122 grp=1 res=1
+              sh-16928 [001] d..2 61874.317743: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=16922 grp=1 res=1
+    mobile_log_d-16922 [007] .... 61874.318263: sched_process_fork: comm=mobile_log_d pid=16922 child_comm=mobile_log_d child_pid=16931
+              sh-16931 [007] .... 61874.331639: sched_process_exit: comm=sh pid=16931 prio=120
+              sh-16931 [007] d..2 61874.331749: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=16922 grp=1 res=1
+    mobile_log_d-16922 [006] .... 61874.332285: sched_process_fork: comm=mobile_log_d pid=16922 child_comm=mobile_log_d child_pid=16932
+              sh-16930 [002] .... 61874.333296: sched_process_exit: comm=sh pid=16930 prio=120
+              sh-16930 [002] d..2 61874.333373: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1122 grp=1 res=1
+ mobile_log_d.wc-1122  [000] .... 61874.337421: sched_process_fork: comm=mobile_log_d.wc pid=1122 child_comm=mobile_log_d.wc child_pid=16933
+              sh-16932 [007] .... 61874.360641: sched_process_exit: comm=sh pid=16932 prio=120
+              sh-16932 [007] d..2 61874.360700: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=16922 grp=1 res=1
+    mobile_log_d-16922 [006] .... 61874.361776: sched_process_exit: comm=mobile_log_d pid=16922 prio=120
+    mobile_log_d-16922 [006] d..2 61874.361905: signal_generate: sig=17 errno=0 code=1 comm=init pid=1 grp=1 res=0
+            init-1     [001] d..2 61874.362590: signal_generate: sig=9 errno=0 code=0 comm=mobile_log_d pid=16922 grp=1 res=0
+              sh-16933 [000] .... 61874.367318: sched_process_exit: comm=sh pid=16933 prio=120
+              sh-16933 [000] d..2 61874.367412: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1122 grp=1 res=1
+ mobile_log_d.wc-1122  [000] .... 61874.370677: sched_process_fork: comm=mobile_log_d.wc pid=1122 child_comm=mobile_log_d.wc child_pid=16934
+              sh-16934 [007] .... 61874.386646: sched_process_exit: comm=sh pid=16934 prio=120
+              sh-16934 [007] d..2 61874.386707: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1122 grp=1 res=1
+            init-1     [002] .... 61874.395366: sched_process_fork: comm=init pid=1 child_comm=init child_pid=16935
+    mobile_log_d-16935 [006] .... 61874.465440: sched_process_fork: comm=mobile_log_d pid=16935 child_comm=mobile_log_d child_pid=16936
+              sh-16936 [006] .... 61874.480574: sched_process_exit: comm=sh pid=16936 prio=120
+              sh-16936 [006] d..2 61874.480625: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=16935 grp=1 res=1
+    mobile_log_d-16935 [006] .... 61874.481238: sched_process_fork: comm=mobile_log_d pid=16935 child_comm=mobile_log_d child_pid=16937
+              sh-16937 [006] .... 61874.496916: sched_process_exit: comm=sh pid=16937 prio=120
+              sh-16937 [006] d..2 61874.496963: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=16935 grp=1 res=1
+    mobile_log_d-16935 [007] .... 61874.497666: sched_process_fork: comm=mobile_log_d pid=16935 child_comm=mobile_log_d child_pid=16938
+              sh-16938 [007] .... 61874.525712: sched_process_exit: comm=sh pid=16938 prio=120
+              sh-16938 [007] d..2 61874.525752: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d pid=16935 grp=1 res=1
+    mobile_log_d-16935 [006] .... 61874.526683: sched_process_exit: comm=mobile_log_d pid=16935 prio=120
+    mobile_log_d-16935 [006] d..2 61874.526895: signal_generate: sig=17 errno=0 code=1 comm=init pid=1 grp=1 res=0
+            init-1     [000] d..2 61874.527491: signal_generate: sig=9 errno=0 code=0 comm=mobile_log_d pid=16935 grp=1 res=0
+ .debug.loggerui-13675 [004] .... 61874.679109: sched_process_fork: comm=.debug.loggerui pid=13675 child_comm=.debug.loggerui child_pid=16939
+      Thread-134-16939 [006] .... 61874.681056: sched_process_exit: comm=Thread-134 pid=16939 prio=120
+ mobile_log_d.cp-16920 [004] .... 61874.833980: sched_process_exit: comm=mobile_log_d.cp pid=16920 prio=120
+           <...>-1122  [002] .... 61874.910112: sched_process_fork: comm=mobile_log_d.wc pid=1122 child_comm=mobile_log_d.wc child_pid=16940
+           <...>-1122  [002] .... 61874.911634: sched_process_fork: comm=mobile_log_d.wc pid=1122 child_comm=mobile_log_d.wc child_pid=16941
+ mobile_log_d.rd-16940 [006] .... 61874.912652: sched_process_fork: comm=mobile_log_d.rd pid=16940 child_comm=mobile_log_d.rd child_pid=16942
+           <...>-1122  [002] .... 61874.913182: sched_process_fork: comm=mobile_log_d.wc pid=1122 child_comm=mobile_log_d.wc child_pid=16943
+           <...>-1122  [002] .... 61874.913564: sched_process_fork: comm=mobile_log_d.wc pid=1122 child_comm=mobile_log_d.wc child_pid=16944
+           <...>-1122  [002] .... 61874.921069: sched_process_fork: comm=mobile_log_d.wc pid=1122 child_comm=mobile_log_d.wc child_pid=16945
+     logd.reader-503   [003] .... 61874.922918: sched_process_fork: comm=logd.reader pid=503 child_comm=logd.reader child_pid=16946
+              sh-16947 [004] .... 61874.952770: sched_process_exit: comm=sh pid=16947 prio=120
+              sh-16947 [004] d..2 61874.952858: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=16940 grp=1 res=1
+             aee-16945 [006] .... 61874.958655: sched_process_exit: comm=aee pid=16945 prio=120
+             aee-16945 [006] d..2 61874.958751: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.wc pid=1122 grp=1 res=1
+      Thread-133-16916 [005] .... 61875.067768: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16948
+      Thread-133-16916 [001] .... 61875.068336: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16949
+      Thread-133-16916 [001] .... 61875.068574: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16950
+      Thread-133-16916 [005] .... 61875.069146: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16951
+      Thread-133-16916 [005] .... 61875.069362: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16952
+         netdiag-1123  [002] .... 61875.171390: sched_process_fork: comm=netdiag pid=1123 child_comm=netdiag child_pid=16953
+         netdiag-1123  [002] .... 61875.173654: sched_process_fork: comm=netdiag pid=1123 child_comm=netdiag child_pid=16954
+         netdiag-16954 [000] .... 61875.178481: sched_process_fork: comm=netdiag pid=16954 child_comm=netdiag child_pid=16955
+         netdiag-16954 [000] .... 61875.180915: sched_process_fork: comm=netdiag pid=16954 child_comm=netdiag child_pid=16956
+           <...>-16956 [007] .... 61875.190997: sched_process_fork: comm=sh pid=16956 child_comm=sh child_pid=16957
+ pool-16-thread--16951 [004] .... 61875.271819: sched_process_exit: comm=pool-16-thread- pid=16951 prio=120
+ FinalizerWatchd-16731 [002] d..1 61875.318880: signal_generate: sig=11 errno=0 code=1 comm=FinalizerWatchd pid=16731 grp=0 res=0
+ FinalizerWatchd-16731 [002] d..1 61875.318892: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ pool-16-thread--16949 [007] .... 61875.375849: sched_process_exit: comm=pool-16-thread- pid=16949 prio=120
+           <...>-2624  [001] .... 61875.377008: sched_process_fork: comm=btlogwatcher pid=2624 child_comm=btlogwatcher child_pid=16958
+           <...>-2624  [003] .... 61875.378200: sched_process_fork: comm=btlogwatcher pid=2624 child_comm=btlogwatcher child_pid=16959
+           <...>-1243  [005] .... 61875.381944: sched_process_fork: comm=csl_sock_host pid=1243 child_comm=csl_sock_host child_pid=16960
+           <...>-1243  [005] .... 61875.416378: sched_process_fork: comm=csl_sock_host pid=1243 child_comm=csl_sock_host child_pid=16961
+           <...>-1243  [003] .... 61875.421680: sched_process_fork: comm=csl_sock_host pid=1243 child_comm=csl_sock_host child_pid=16962
+           <...>-1243  [003] .... 61875.423250: sched_process_fork: comm=csl_sock_host pid=1243 child_comm=csl_sock_host child_pid=16963
+           <...>-1293  [003] .... 61875.433783: sched_process_fork: comm=mdl_sock_host pid=1293 child_comm=mdl_sock_host child_pid=16964
+           <...>-16948 [007] .... 61875.471826: sched_process_exit: comm=pool-16-thread- pid=16948 prio=120
+           <...>-16950 [002] .... 61875.475804: sched_process_exit: comm=pool-16-thread- pid=16950 prio=120
+           <...>-1293  [003] .... 61875.475903: sched_process_fork: comm=mdl_sock_host pid=1293 child_comm=mdl_sock_host child_pid=16965
+           <...>-1293  [003] .... 61875.476347: sched_process_fork: comm=mdl_sock_host pid=1293 child_comm=mdl_sock_host child_pid=16966
+           <...>-16952 [005] .... 61875.523568: sched_process_exit: comm=pool-16-thread- pid=16952 prio=120
+           <...>-16964 [001] .... 61875.850863: sched_process_exit: comm=mdl_cp_MDDB pid=16964 prio=120
+           <...>-1522  [003] d..1 61876.292955: signal_generate: sig=11 errno=0 code=1 comm=Thread-3 pid=1522 grp=0 res=0
+           <...>-1522  [003] d..1 61876.292968: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16960 [006] .... 61876.382821: sched_process_exit: comm=csl_sd_monitor pid=16960 prio=120
+ ActivityManager-1521  [005] d..1 61877.068729: signal_generate: sig=11 errno=0 code=1 comm=ActivityManager pid=1521 grp=0 res=0
+ ActivityManager-1521  [005] d..1 61877.068742: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-1570  [004] dn.1 61877.068936: signal_generate: sig=9 errno=0 code=0 comm=ocess.gservices pid=16608 grp=1 res=0
+  binder:16608_1-16616 [001] d..1 61877.069077: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16608_1-16616 [001] .... 61877.069106: sched_process_exit: comm=binder:16608_1 pid=16616 prio=120
+  binder:16608_3-16618 [001] d..1 61877.069189: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16608_3-16618 [001] .... 61877.069204: sched_process_exit: comm=binder:16608_3 pid=16618 prio=120
+           <...>-16614 [000] d..1 61877.069292: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+   Profile Saver-16620 [001] d..1 61877.069297: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+   Profile Saver-16620 [001] .... 61877.069312: sched_process_exit: comm=Profile Saver pid=16620 prio=129
+           <...>-16614 [000] .... 61877.069312: sched_process_exit: comm=FinalizerDaemon pid=16614 prio=124
+  binder:16608_4-16622 [001] d..1 61877.069368: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16608_4-16622 [001] .... 61877.069380: sched_process_exit: comm=binder:16608_4 pid=16622 prio=120
+ FinalizerWatchd-16615 [000] d..1 61877.069380: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ FinalizerWatchd-16615 [000] .... 61877.069392: sched_process_exit: comm=FinalizerWatchd pid=16615 prio=124
+           <...>-16617 [000] d..1 61877.069458: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16617 [000] .... 61877.069470: sched_process_exit: comm=binder:16608_2 pid=16617 prio=120
+           <...>-16621 [000] d..1 61877.069582: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16621 [000] .... 61877.069602: sched_process_exit: comm=GoogleApiHandle pid=16621 prio=129
+           <...>-16610 [002] d..1 61877.069723: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16610 [002] .... 61877.069742: sched_process_exit: comm=perfetto_hprof_ pid=16610 prio=100
+ ocess.gservices-16608 [003] d..1 61877.070163: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16612 [002] d..1 61877.070251: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16612 [002] .... 61877.070268: sched_process_exit: comm=HeapTaskDaemon pid=16612 prio=124
+  Signal Catcher-16609 [001] d..1 61877.070363: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Signal Catcher-16609 [001] .... 61877.070380: sched_process_exit: comm=Signal Catcher pid=16609 prio=100
+ ocess.gservices-16608 [003] .... 61877.070452: sched_process_exit: comm=ocess.gservices pid=16608 prio=120
+           <...>-16611 [003] d..1 61877.070509: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ ReferenceQueueD-16613 [002] d..1 61877.070557: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ ReferenceQueueD-16613 [002] .... 61877.070573: sched_process_exit: comm=ReferenceQueueD pid=16613 prio=124
+ ActivityManager-1520  [007] d..1 61877.070625: signal_generate: sig=11 errno=0 code=1 comm=ActivityManager pid=1520 grp=0 res=0
+ ActivityManager-1520  [007] d..1 61877.070631: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16611 [002] .... 61877.107648: sched_process_exit: comm=Jit thread pool pid=16611 prio=129
+           <...>-16611 [002] d..2 61877.111174: signal_generate: sig=17 errno=0 code=2 comm=main pid=751 grp=1 res=0
+            main-751   [003] d..1 61877.111210: signal_deliver: sig=17 errno=0 code=2 sa_handler=7e7aa768e0 sa_flags=4
+  binder:16761_5-16855 [002] .... 61877.111580: sched_process_fork: comm=binder:16761_5 pid=16855 child_comm=binder:16761_5 child_pid=16967
+  HeapTaskDaemon-16870 [001] d..1 61878.189512: signal_generate: sig=11 errno=0 code=1 comm=HeapTaskDaemon pid=16870 grp=0 res=0
+  HeapTaskDaemon-16870 [001] d..1 61878.189526: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ ReferenceQueueD-16871 [003] d..1 61878.189972: signal_generate: sig=11 errno=0 code=1 comm=ReferenceQueueD pid=16871 grp=0 res=0
+ ReferenceQueueD-16871 [003] d..1 61878.189981: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ FinalizerWatchd-16873 [000] d..1 61878.190058: signal_generate: sig=11 errno=0 code=1 comm=FinalizerWatchd pid=16873 grp=0 res=0
+ FinalizerWatchd-16873 [000] d..1 61878.190065: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ FinalizerDaemon-16872 [000] d..1 61878.194748: signal_generate: sig=11 errno=0 code=1 comm=FinalizerDaemon pid=16872 grp=0 res=0
+ FinalizerDaemon-16872 [000] d..1 61878.194763: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16916 [001] .... 61878.524807: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16968
+           <...>-16916 [006] .... 61878.525286: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16969
+           <...>-16916 [006] .... 61878.526061: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16970
+           <...>-16916 [006] .... 61878.526441: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16971
+           <...>-16970 [002] .... 61878.527015: sched_process_exit: comm=pool-17-thread- pid=16970 prio=120
+           <...>-16971 [002] .... 61878.527717: sched_process_exit: comm=pool-17-thread- pid=16971 prio=120
+ pool-17-thread--16969 [003] .... 61878.528049: sched_process_exit: comm=pool-17-thread- pid=16969 prio=120
+ pool-17-thread--16968 [003] .... 61878.528107: sched_process_exit: comm=pool-17-thread- pid=16968 prio=120
+           <...>-16916 [007] .... 61878.551268: sched_process_fork: comm=Thread-133 pid=16916 child_comm=Thread-133 child_pid=16972
+           <...>-16916 [007] .... 61878.552937: sched_process_exit: comm=Thread-133 pid=16916 prio=120
+ .debug.loggerui-13675 [007] .... 61878.742185: sched_process_fork: comm=.debug.loggerui pid=13675 child_comm=.debug.loggerui child_pid=16973
+ .debug.loggerui-13675 [007] .... 61878.742994: sched_process_fork: comm=.debug.loggerui pid=13675 child_comm=.debug.loggerui child_pid=16974
+      Thread-148-16974 [006] .... 61878.746736: sched_process_exit: comm=Thread-148 pid=16974 prio=120
+ FinalizerWatchd-16828 [002] d..1 61879.570911: signal_generate: sig=11 errno=0 code=1 comm=FinalizerWatchd pid=16828 grp=0 res=0
+ FinalizerWatchd-16828 [002] d..1 61879.570926: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ mobile_log_d.rd-16940 [007] .... 61879.960254: sched_process_fork: comm=mobile_log_d.rd pid=16940 child_comm=mobile_log_d.rd child_pid=16975
+           <...>-16976 [007] .... 61879.986688: sched_process_exit: comm=sh pid=16976 prio=120
+           <...>-16976 [007] d..2 61879.986743: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=16940 grp=1 res=1
+           <...>-2783  [005] d..1 61880.047374: signal_generate: sig=11 errno=0 code=1 comm=Thread-19 pid=2783 grp=0 res=0
+           <...>-2783  [005] d..1 61880.047387: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+        Timer-17-16908 [004] .... 61880.083071: sched_process_exit: comm=Timer-17 pid=16908 prio=120
+        Timer-18-16973 [004] .... 61880.083263: sched_process_exit: comm=Timer-18 pid=16973 prio=120
+           <...>-15685 [007] .... 61880.101578: sched_process_fork: comm=RenderThread pid=15685 child_comm=RenderThread child_pid=16977
+       hwuiTask0-15709 [001] d..1 61880.103112: signal_generate: sig=11 errno=0 code=1 comm=hwuiTask0 pid=15709 grp=0 res=0
+       hwuiTask0-15709 [001] d..1 61880.103122: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+    RenderThread-3014  [004] .... 61880.120162: sched_process_fork: comm=RenderThread pid=3014 child_comm=RenderThread child_pid=16978
+    RenderThread-16977 [001] .... 61880.144189: sched_process_exit: comm=RenderThread pid=16977 prio=120
+           <...>-16978 [007] .... 61880.151030: sched_process_exit: comm=RenderThread pid=16978 prio=120
+           <...>-6604  [000] d..1 61880.184237: signal_generate: sig=11 errno=0 code=1 comm=binder:6469_5 pid=6604 grp=0 res=0
+           <...>-6604  [000] d..1 61880.184247: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16732 [005] d..1 61880.216133: signal_generate: sig=11 errno=0 code=1 comm=binder:16723_1 pid=16732 grp=0 res=0
+           <...>-16732 [005] d..1 61880.216143: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+  binder:16865_4-16914 [001] d..1 61880.410870: signal_generate: sig=11 errno=0 code=1 comm=binder:16865_4 pid=16914 grp=0 res=0
+  binder:16865_4-16914 [001] d..1 61880.410879: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+  binder:16723_5-16910 [002] d..1 61881.540429: signal_generate: sig=11 errno=0 code=1 comm=binder:16723_5 pid=16910 grp=0 res=0
+  binder:16723_5-16910 [002] d..1 61881.540442: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16761 [002] d..1 61882.074565: signal_generate: sig=11 errno=0 code=1 comm=.android.dialer pid=16761 grp=0 res=0
+           <...>-16761 [002] d..1 61882.074581: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ android.display-1508  [006] d..1 61882.076782: signal_generate: sig=9 errno=0 code=0 comm=.android.dialer pid=16761 grp=1 res=0
+           <...>-16761 [002] dn.1 61882.076790: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ ADB-JDWP Connec-16765 [003] d..1 61882.076796: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16764 [001] d..1 61882.076801: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ FinalizerWatchd-16770 [000] d..1 61882.076806: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ ADB-JDWP Connec-16765 [003] .... 61882.076877: sched_process_exit: comm=ADB-JDWP Connec pid=16765 prio=100
+ FinalizerWatchd-16770 [000] .... 61882.076958: sched_process_exit: comm=FinalizerWatchd pid=16770 prio=124
+           <...>-16771 [000] d..1 61882.077007: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16771 [000] .... 61882.077016: sched_process_exit: comm=binder:16761_1 pid=16771 prio=120
+  binder:16761_2-16772 [000] d..1 61882.077088: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16761_2-16772 [000] .... 61882.077097: sched_process_exit: comm=binder:16761_2 pid=16772 prio=120
+           <...>-16773 [000] d..1 61882.077134: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16773 [000] .... 61882.077142: sched_process_exit: comm=Blocking Thread pid=16773 prio=131
+ Scheduler Threa-16776 [000] d..1 61882.077197: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Scheduler Threa-16776 [000] .... 61882.077205: sched_process_exit: comm=Scheduler Threa pid=16776 prio=120
+ Jit thread pool-16766 [003] d..1 61882.077247: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Jit thread pool-16766 [003] .... 61882.077260: sched_process_exit: comm=Jit thread pool pid=16766 prio=129
+  Signal Catcher-16763 [001] d..1 61882.077264: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Blocking Thread-16777 [000] d..1 61882.077267: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Signal Catcher-16763 [001] .... 61882.077276: sched_process_exit: comm=Signal Catcher pid=16763 prio=100
+ Blocking Thread-16777 [000] .... 61882.077279: sched_process_exit: comm=Blocking Thread pid=16777 prio=131
+ FinalizerDaemon-16769 [003] d..1 61882.077302: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ FinalizerDaemon-16769 [003] .... 61882.077310: sched_process_exit: comm=FinalizerDaemon pid=16769 prio=124
+  Lite Thread #1-16781 [000] d..1 61882.077344: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+    AsyncTask #2-16863 [001] d..1 61882.077346: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Lite Thread #1-16781 [000] .... 61882.077353: sched_process_exit: comm=Lite Thread #1 pid=16781 prio=120
+    AsyncTask #2-16863 [001] .... 61882.077355: sched_process_exit: comm=AsyncTask #2 pid=16863 prio=130
+           <...>-16768 [003] d..1 61882.077363: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16761_5-16855 [001] d..1 61882.077400: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+    RenderThread-16786 [000] d..1 61882.077403: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16768 [003] .... 61882.077404: sched_process_exit: comm=ReferenceQueueD pid=16768 prio=124
+  binder:16761_5-16855 [001] .... 61882.077409: sched_process_exit: comm=binder:16761_5 pid=16855 prio=120
+    RenderThread-16786 [000] .... 61882.077412: sched_process_exit: comm=RenderThread pid=16786 prio=116
+ Blocking Thread-16785 [003] d..1 61882.077446: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Blocking Thread-16785 [003] .... 61882.077456: sched_process_exit: comm=Blocking Thread pid=16785 prio=131
+           <...>-16853 [001] d..1 61882.077458: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16853 [001] .... 61882.077467: sched_process_exit: comm=hwuiTask1 pid=16853 prio=118
+           <...>-16793 [000] d..1 61882.077472: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16793 [000] .... 61882.077482: sched_process_exit: comm=Blocking Thread pid=16793 prio=131
+  Lite Thread #2-16782 [003] d..1 61882.077500: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Lite Thread #2-16782 [003] .... 61882.077508: sched_process_exit: comm=Lite Thread #2 pid=16782 prio=120
+ SurfaceSyncGrou-16851 [001] d..1 61882.077510: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ SurfaceSyncGrou-16851 [001] .... 61882.077523: sched_process_exit: comm=SurfaceSyncGrou pid=16851 prio=120
+     FramePolicy-16795 [000] d..1 61882.077531: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+     FramePolicy-16795 [000] .... 61882.077541: sched_process_exit: comm=FramePolicy pid=16795 prio=120
+    BG Thread #1-16779 [003] d..1 61882.077555: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+    BG Thread #1-16779 [003] .... 61882.077564: sched_process_exit: comm=BG Thread #1 pid=16779 prio=130
+           <...>-16850 [001] d..1 61882.077568: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16850 [001] .... 61882.077577: sched_process_exit: comm=glide-source-th pid=16850 prio=129
+    BG Thread #2-16796 [000] d..1 61882.077585: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+    BG Thread #2-16796 [000] .... 61882.077595: sched_process_exit: comm=BG Thread #2 pid=16796 prio=130
+           <...>-16775 [003] d..1 61882.077611: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16775 [003] .... 61882.077620: sched_process_exit: comm=BG Thread #0 pid=16775 prio=130
+ glide-source-th-16847 [001] d..1 61882.077623: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ glide-source-th-16847 [001] .... 61882.077633: sched_process_exit: comm=glide-source-th pid=16847 prio=129
+ Blocking Thread-16800 [000] d..1 61882.077648: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Blocking Thread-16800 [000] .... 61882.077657: sched_process_exit: comm=Blocking Thread pid=16800 prio=131
+  binder:16761_4-16846 [001] d..1 61882.077680: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16761_4-16846 [001] .... 61882.077691: sched_process_exit: comm=binder:16761_4 pid=16846 prio=120
+ ContactPhotoLoa-16862 [000] d..1 61882.077704: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ ContactPhotoLoa-16862 [000] .... 61882.077711: sched_process_exit: comm=ContactPhotoLoa pid=16862 prio=120
+           <...>-16843 [001] d..1 61882.077728: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16843 [001] .... 61882.077736: sched_process_exit: comm=ConnectivityThr pid=16843 prio=120
+  binder:16761_1-16856 [000] d..1 61882.077755: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16761_1-16856 [000] .... 61882.077762: sched_process_exit: comm=binder:16761_1 pid=16856 prio=120
+ glide-active-re-16842 [001] d..1 61882.077773: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ glide-active-re-16842 [001] .... 61882.077780: sched_process_exit: comm=glide-active-re pid=16842 prio=130
+       hwuiTask0-16852 [000] d..1 61882.077804: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+       hwuiTask0-16852 [000] .... 61882.077812: sched_process_exit: comm=hwuiTask0 pid=16852 prio=118
+ queued-work-loo-16834 [001] d..1 61882.077822: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ queued-work-loo-16834 [001] .... 61882.077829: sched_process_exit: comm=queued-work-loo pid=16834 prio=118
+  Lite Thread #5-16821 [000] d..1 61882.077852: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Lite Thread #5-16821 [000] .... 61882.077859: sched_process_exit: comm=Lite Thread #5 pid=16821 prio=120
+  mali-mem-purge-16804 [001] d..1 61882.077868: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  mali-mem-purge-16804 [001] .... 61882.077875: sched_process_exit: comm=mali-mem-purge pid=16804 prio=110
+ Blocking Thread-16818 [000] d..1 61882.077912: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Lite Thread #3-16784 [001] d..1 61882.077917: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Blocking Thread-16818 [000] .... 61882.077919: sched_process_exit: comm=Blocking Thread pid=16818 prio=131
+  Lite Thread #3-16784 [001] .... 61882.077925: sched_process_exit: comm=Lite Thread #3 pid=16784 prio=120
+ Blocking Thread-16817 [000] d..1 61882.077977: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Blocking Thread-16817 [000] .... 61882.077984: sched_process_exit: comm=Blocking Thread pid=16817 prio=131
+ Blocking Thread-16816 [000] d..1 61882.078027: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ Blocking Thread-16816 [000] .... 61882.078036: sched_process_exit: comm=Blocking Thread pid=16816 prio=131
+           <...>-16764 [001] .... 61882.078960: sched_process_exit: comm=perfetto_hprof_ pid=16764 prio=100
+           <...>-16967 [000] d..1 61882.078962: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+         ged-swd-16815 [002] d..1 61882.078966: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16967 [000] .... 61882.078973: sched_process_exit: comm=binder:16761_6 pid=16967 prio=120
+         ged-swd-16815 [002] .... 61882.078978: sched_process_exit: comm=ged-swd pid=16815 prio=110
+           <...>-16761 [003] .... 61882.079012: sched_process_exit: comm=.android.dialer pid=16761 prio=120
+ mali-cmar-backe-16814 [002] d..1 61882.079051: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-cmar-backe-16814 [002] .... 61882.079058: sched_process_exit: comm=mali-cmar-backe pid=16814 prio=100
+ mali-utility-wo-16813 [002] d..1 61882.079089: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16813 [002] .... 61882.079095: sched_process_exit: comm=mali-utility-wo pid=16813 prio=110
+           <...>-16812 [002] d..1 61882.079132: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16812 [002] .... 61882.079139: sched_process_exit: comm=binder:16761_3 pid=16812 prio=120
+           <...>-16811 [002] d..1 61882.079173: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16811 [002] .... 61882.079180: sched_process_exit: comm=mali-utility-wo pid=16811 prio=110
+ mali-utility-wo-16810 [002] d..1 61882.079222: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16810 [002] .... 61882.079229: sched_process_exit: comm=mali-utility-wo pid=16810 prio=110
+ mali-utility-wo-16809 [002] d..1 61882.079261: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16809 [002] .... 61882.079267: sched_process_exit: comm=mali-utility-wo pid=16809 prio=110
+ mali-utility-wo-16808 [002] d..1 61882.079299: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16808 [002] .... 61882.079305: sched_process_exit: comm=mali-utility-wo pid=16808 prio=110
+           <...>-16807 [002] d..1 61882.079338: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16807 [002] .... 61882.079344: sched_process_exit: comm=mali-utility-wo pid=16807 prio=110
+ mali-utility-wo-16806 [002] d..1 61882.079378: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16806 [002] .... 61882.079384: sched_process_exit: comm=mali-utility-wo pid=16806 prio=110
+ mali-utility-wo-16805 [002] d..1 61882.079416: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16805 [002] .... 61882.079421: sched_process_exit: comm=mali-utility-wo pid=16805 prio=110
+           <...>-16799 [002] d..1 61882.079459: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16799 [002] .... 61882.079465: sched_process_exit: comm=Blocking Thread pid=16799 prio=131
+              DG-16798 [002] d..1 61882.079498: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+              DG-16798 [002] .... 61882.079505: sched_process_exit: comm=DG pid=16798 prio=120
+           <...>-16797 [002] d..1 61882.079539: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16797 [002] .... 61882.079547: sched_process_exit: comm=BG Thread #3 pid=16797 prio=130
+  Lite Thread #0-16792 [002] d..1 61882.079584: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Lite Thread #0-16792 [002] .... 61882.079592: sched_process_exit: comm=Lite Thread #0 pid=16792 prio=120
+ AsyncQueryWorke-16791 [002] d..1 61882.079626: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ AsyncQueryWorke-16791 [002] .... 61882.079632: sched_process_exit: comm=AsyncQueryWorke pid=16791 prio=120
+  Lite Thread #4-16783 [002] d..1 61882.079696: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Lite Thread #4-16783 [002] .... 61882.079704: sched_process_exit: comm=Lite Thread #4 pid=16783 prio=120
+  Lite Thread #0-16778 [002] d..1 61882.079739: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  Lite Thread #0-16778 [002] .... 61882.079747: sched_process_exit: comm=Lite Thread #0 pid=16778 prio=120
+           <...>-16865 [000] d..1 61882.079748: signal_generate: sig=11 errno=0 code=1 comm=ek.engineermode pid=16865 grp=0 res=0
+           <...>-16865 [000] d..1 61882.079755: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16774 [002] d..1 61882.079792: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16774 [002] .... 61882.079800: sched_process_exit: comm=GoogleApiHandle pid=16774 prio=129
+  HeapTaskDaemon-16767 [002] d..1 61882.079836: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-1508  [006] d..1 61882.080664: signal_generate: sig=9 errno=0 code=0 comm=ek.engineermode pid=16865 grp=1 res=0
+           <...>-16865 [000] d..1 61882.080669: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16868 [001] d..1 61882.080673: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16870 [003] d..1 61882.080677: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+    RenderThread-16877 [002] d..1 61882.080680: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+    RenderThread-16877 [002] .... 61882.080696: sched_process_exit: comm=RenderThread pid=16877 prio=116
+  mali-mem-purge-16883 [003] d..1 61882.080700: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  mali-mem-purge-16883 [003] .... 61882.080710: sched_process_exit: comm=mali-mem-purge pid=16883 prio=110
+           <...>-16867 [000] d..1 61882.080726: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16867 [000] .... 61882.080735: sched_process_exit: comm=Signal Catcher pid=16867 prio=100
+           <...>-16870 [003] .... 61882.080767: sched_process_exit: comm=HeapTaskDaemon pid=16870 prio=124
+           <...>-16871 [003] d..1 61882.080793: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16871 [003] .... 61882.080798: sched_process_exit: comm=ReferenceQueueD pid=16871 prio=124
+           <...>-16868 [001] .... 61882.080812: sched_process_exit: comm=perfetto_hprof_ pid=16868 prio=100
+           <...>-16913 [001] d..1 61882.080925: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16913 [001] .... 61882.080935: sched_process_exit: comm=queued-work-loo pid=16913 prio=118
+    ScrollPolicy-16903 [001] d..1 61882.080964: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+    ScrollPolicy-16903 [001] .... 61882.080972: sched_process_exit: comm=ScrollPolicy pid=16903 prio=120
+           <...>-16865 [000] .... 61882.081207: sched_process_exit: comm=ek.engineermode pid=16865 prio=120
+           <...>-16902 [000] d..1 61882.081236: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16898 [001] d..1 61882.081238: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16902 [000] .... 61882.081243: sched_process_exit: comm=TouchPolicy pid=16902 prio=120
+           <...>-16898 [001] .... 61882.081246: sched_process_exit: comm=binder:16865_3 pid=16898 prio=120
+       hwuiTask1-16897 [000] d..1 61882.081282: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+         ged-swd-16894 [001] d..1 61882.081287: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+       hwuiTask1-16897 [000] .... 61882.081289: sched_process_exit: comm=hwuiTask1 pid=16897 prio=118
+         ged-swd-16894 [001] .... 61882.081294: sched_process_exit: comm=ged-swd pid=16894 prio=110
+           <...>-16892 [000] d..1 61882.081325: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16892 [000] .... 61882.081332: sched_process_exit: comm=SurfaceSyncGrou pid=16892 prio=120
+           <...>-16893 [001] d..1 61882.081339: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16893 [001] .... 61882.081348: sched_process_exit: comm=mali-cmar-backe pid=16893 prio=100
+  binder:16865_1-16874 [000] d..1 61882.081385: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16891 [001] d..1 61882.081392: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16865_1-16874 [000] .... 61882.081397: sched_process_exit: comm=binder:16865_1 pid=16874 prio=120
+ mali-utility-wo-16891 [001] .... 61882.081402: sched_process_exit: comm=mali-utility-wo pid=16891 prio=110
+           <...>-16890 [001] d..1 61882.081452: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16869 [000] d..1 61882.081457: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16890 [001] .... 61882.081458: sched_process_exit: comm=mali-utility-wo pid=16890 prio=110
+ mali-utility-wo-16889 [001] d..1 61882.081902: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16889 [001] .... 61882.081911: sched_process_exit: comm=mali-utility-wo pid=16889 prio=110
+           <...>-16888 [001] d..1 61882.081962: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16888 [001] .... 61882.081970: sched_process_exit: comm=mali-utility-wo pid=16888 prio=110
+           <...>-16914 [003] d..1 61882.081976: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16914 [003] .... 61882.081988: sched_process_exit: comm=binder:16865_4 pid=16914 prio=120
+ mali-utility-wo-16887 [001] d..1 61882.082009: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16887 [001] .... 61882.082017: sched_process_exit: comm=mali-utility-wo pid=16887 prio=110
+ mali-utility-wo-16886 [001] d..1 61882.082054: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16886 [001] .... 61882.082060: sched_process_exit: comm=mali-utility-wo pid=16886 prio=110
+           <...>-16884 [001] d..1 61882.082097: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16884 [001] .... 61882.082104: sched_process_exit: comm=mali-utility-wo pid=16884 prio=110
+     FramePolicy-16880 [001] d..1 61882.082140: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+     FramePolicy-16880 [001] .... 61882.082148: sched_process_exit: comm=FramePolicy pid=16880 prio=120
+           <...>-16876 [001] d..1 61882.082188: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16876 [001] .... 61882.082194: sched_process_exit: comm=Profile Saver pid=16876 prio=129
+  binder:16865_2-16875 [001] d..1 61882.082231: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16865_2-16875 [001] .... 61882.082240: sched_process_exit: comm=binder:16865_2 pid=16875 prio=120
+           <...>-16872 [002] d..1 61882.084950: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16872 [002] .... 61882.085302: sched_process_exit: comm=FinalizerDaemon pid=16872 prio=124
+           <...>-16873 [002] d..1 61882.085397: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16865_3-16881 [002] d..1 61882.085609: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+  binder:16865_3-16881 [002] .... 61882.085635: sched_process_exit: comm=binder:16865_3 pid=16881 prio=120
+           <...>-16869 [000] .... 61882.085693: sched_process_exit: comm=Jit thread pool pid=16869 prio=129
+ mali-utility-wo-16885 [002] d..1 61882.085709: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+ mali-utility-wo-16885 [002] .... 61882.085723: sched_process_exit: comm=mali-utility-wo pid=16885 prio=110
+           <...>-16896 [002] d..1 61882.085766: signal_deliver: sig=9 errno=0 code=0 sa_handler=0 sa_flags=0
+           <...>-16896 [002] .... 61882.085782: sched_process_exit: comm=hwuiTask0 pid=16896 prio=118
+           <...>-1520  [000] d..1 61882.086571: signal_generate: sig=9 errno=0 code=0 comm=.android.dialer pid=16761 grp=1 res=2
+           <...>-16873 [002] .... 61882.133975: sched_process_exit: comm=FinalizerWatchd pid=16873 prio=124
+     kbase_event-16882 [000] .... 61882.137573: sched_process_exit: comm=kbase_event pid=16882 prio=100
+           <...>-1655  [001] d..1 61882.143974: signal_generate: sig=11 errno=0 code=1 comm=GraphicsStats-d pid=1655 grp=0 res=0
+           <...>-1655  [001] d..1 61882.143985: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16873 [001] d..2 61882.148423: signal_generate: sig=17 errno=0 code=2 comm=main pid=751 grp=1 res=0
+            main-751   [003] d..1 61882.148445: signal_deliver: sig=17 errno=0 code=2 sa_handler=7e7aa768e0 sa_flags=4
+  HeapTaskDaemon-16767 [001] .... 61882.188849: sched_process_exit: comm=HeapTaskDaemon pid=16767 prio=124
+           <...>-16803 [000] .... 61882.192172: sched_process_exit: comm=kbase_event pid=16803 prio=100
+   binder:1477_4-1560  [002] d..1 61882.206093: signal_generate: sig=11 errno=0 code=1 comm=binder:1477_4 pid=1560 grp=0 res=0
+   binder:1477_4-1560  [002] d..1 61882.206105: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+  HeapTaskDaemon-16767 [000] d..2 61882.208639: signal_generate: sig=17 errno=0 code=2 comm=main pid=751 grp=1 res=0
+            main-751   [007] d..1 61882.208672: signal_deliver: sig=17 errno=0 code=2 sa_handler=7e7aa768e0 sa_flags=4
+           <...>-1795  [003] .... 61882.748540: sched_process_fork: comm=RenderThread pid=1795 child_comm=RenderThread child_pid=16979
+    RenderThread-16979 [007] .... 61882.759913: sched_process_exit: comm=RenderThread pid=16979 prio=120
+ mobile_log_d.rd-16940 [000] .... 61884.995304: sched_process_fork: comm=mobile_log_d.rd pid=16940 child_comm=mobile_log_d.rd child_pid=16980
+           <...>-16981 [007] .... 61885.032664: sched_process_exit: comm=sh pid=16981 prio=120
+           <...>-16981 [007] d..2 61885.032739: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=16940 grp=1 res=1
+           <...>-27065 [005] d..1 61885.043113: signal_generate: sig=11 errno=0 code=1 comm=binder:1989_9 pid=27065 grp=0 res=0
+           <...>-27065 [005] d..1 61885.043129: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16910 [002] d..1 61888.760178: signal_generate: sig=11 errno=0 code=1 comm=binder:16723_5 pid=16910 grp=0 res=0
+           <...>-16910 [002] d..1 61888.760193: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ mobile_log_d.rd-16940 [002] .... 61890.041641: sched_process_fork: comm=mobile_log_d.rd pid=16940 child_comm=mobile_log_d.rd child_pid=16982
+              sh-16983 [007] .... 61890.074353: sched_process_exit: comm=sh pid=16983 prio=120
+              sh-16983 [007] d..2 61890.074417: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=16940 grp=1 res=1
+           <...>-27065 [004] d..1 61890.183219: signal_generate: sig=11 errno=0 code=1 comm=binder:1989_9 pid=27065 grp=0 res=0
+           <...>-27065 [004] d..1 61890.183235: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16745 [002] .... 61895.057225: sched_process_exit: comm=Blocking Thread pid=16745 prio=131
+ mobile_log_d.rd-16940 [002] .... 61895.083790: sched_process_fork: comm=mobile_log_d.rd pid=16940 child_comm=mobile_log_d.rd child_pid=16984
+              sh-16985 [007] .... 61895.116301: sched_process_exit: comm=sh pid=16985 prio=120
+              sh-16985 [007] d..2 61895.116375: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=16940 grp=1 res=1
+           <...>-16748 [006] d..1 61895.635313: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=16748 grp=0 res=0
+           <...>-16748 [006] d..1 61895.635325: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16750 [007] d..1 61895.765511: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=16750 grp=0 res=0
+           <...>-16750 [007] d..1 61895.765520: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16749 [006] d..1 61895.777359: signal_generate: sig=11 errno=0 code=1 comm=nioEventLoopGro pid=16749 grp=0 res=0
+           <...>-16749 [006] d..1 61895.777372: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ mobile_log_d.rd-16940 [002] .... 61900.125659: sched_process_fork: comm=mobile_log_d.rd pid=16940 child_comm=mobile_log_d.rd child_pid=16986
+              sh-16987 [007] .... 61900.156753: sched_process_exit: comm=sh pid=16987 prio=120
+              sh-16987 [007] d..2 61900.156816: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=16940 grp=1 res=1
+           <...>-16857 [003] .... 61903.544194: sched_process_exit: comm=Blocking Thread pid=16857 prio=131
+           <...>-16858 [003] .... 61903.544524: sched_process_exit: comm=Blocking Thread pid=16858 prio=131
+ mobile_log_d.rd-16940 [002] .... 61905.166154: sched_process_fork: comm=mobile_log_d.rd pid=16940 child_comm=mobile_log_d.rd child_pid=16988
+           <...>-16989 [007] .... 61905.198239: sched_process_exit: comm=sh pid=16989 prio=120
+           <...>-16989 [007] d..2 61905.198302: signal_generate: sig=17 errno=0 code=1 comm=mobile_log_d.rd pid=16940 grp=1 res=1
+ ll.splashworker-1768  [002] d..1 61906.889319: signal_generate: sig=11 errno=0 code=1 comm=ll.splashworker pid=1768 grp=0 res=0
+ ll.splashworker-1768  [002] d..1 61906.889352: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+       DexOptExt-1682  [003] d..1 61906.889444: signal_generate: sig=11 errno=0 code=1 comm=DexOptExt pid=1682 grp=0 res=0
+       DexOptExt-1682  [003] d..1 61906.889449: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+    RenderThread-11305 [002] .... 61906.907167: sched_process_fork: comm=RenderThread pid=11305 child_comm=RenderThread child_pid=16990
+    RenderThread-16990 [000] .... 61906.910228: sched_process_exit: comm=RenderThread pid=16990 prio=120
+ android.youtube-11264 [003] d..1 61906.924253: signal_generate: sig=11 errno=0 code=1 comm=android.youtube pid=11264 grp=0 res=0
+ android.youtube-11264 [003] d..1 61906.924266: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-1795  [007] .... 61906.928742: sched_process_fork: comm=RenderThread pid=1795 child_comm=RenderThread child_pid=16991
+           <...>-1506  [006] d..1 61906.942218: signal_generate: sig=11 errno=0 code=1 comm=android.ui pid=1506 grp=0 res=0
+           <...>-1506  [006] d..1 61906.942229: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ android.youtube-11264 [002] .... 61906.942900: sched_process_fork: comm=android.youtube pid=11264 child_comm=android.youtube child_pid=16992
+ yt-critical Thr-11286 [005] d..1 61906.958847: signal_generate: sig=11 errno=0 code=1 comm=yt-critical Thr pid=11286 grp=0 res=0
+ yt-critical Thr-11286 [005] d..1 61906.958861: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+    RenderThread-16991 [007] .... 61906.960036: sched_process_exit: comm=RenderThread pid=16991 prio=120
+           <...>-11351 [001] d..1 61906.967875: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #5 pid=11351 grp=0 res=0
+           <...>-11351 [001] d..1 61906.967889: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11316 [007] d..1 61906.974917: signal_generate: sig=11 errno=0 code=1 comm=CronetNet pid=11316 grp=0 res=0
+           <...>-11316 [007] d..1 61906.974926: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ ThreadPoolForeg-11313 [006] d..1 61906.986304: signal_generate: sig=11 errno=0 code=1 comm=ThreadPoolForeg pid=11313 grp=0 res=0
+ ThreadPoolForeg-11313 [006] d..1 61906.986311: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+    BG Thread #0-11277 [005] d..1 61907.006345: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #0 pid=11277 grp=0 res=0
+    BG Thread #0-11277 [005] d..1 61907.006358: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+   BG Thread #14-11336 [005] d..1 61907.006626: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #14 pid=11336 grp=0 res=0
+   BG Thread #14-11336 [005] d..1 61907.006637: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11335 [002] d..1 61907.006652: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #13 pid=11335 grp=0 res=0
+           <...>-11335 [002] d..1 61907.006656: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+    FileObserver-11524 [001] d..1 61907.012242: signal_generate: sig=11 errno=0 code=1 comm=FileObserver pid=11524 grp=0 res=0
+    FileObserver-11524 [001] d..1 61907.012256: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+   BG Thread #11-11332 [000] d..1 61907.012317: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #11 pid=11332 grp=0 res=0
+   BG Thread #11-11332 [000] d..1 61907.012323: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+  Lite Thread #5-11351 [005] .... 61907.014933: sched_process_fork: comm=Lite Thread #5 pid=11351 child_comm=Lite Thread #5 child_pid=16993
+  Lite Thread #4-11349 [002] d..1 61907.026094: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #4 pid=11349 grp=0 res=0
+  Lite Thread #4-11349 [002] d..1 61907.026119: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+  Lite Thread #2-11338 [007] d..1 61907.031578: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #2 pid=11338 grp=0 res=0
+  Lite Thread #2-11338 [007] d..1 61907.031585: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11358 [003] d..1 61907.084597: signal_generate: sig=11 errno=0 code=1 comm=queued-work-loo pid=11358 grp=0 res=0
+           <...>-11358 [003] d..1 61907.084614: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11264 [007] .... 61907.095083: sched_process_fork: comm=android.youtube pid=11264 child_comm=android.youtube child_pid=16994
+           <...>-16994 [006] .... 61907.097290: sched_process_fork: comm=mdxSsdp42-1 pid=16994 child_comm=mdxSsdp42-1 child_pid=16995
+           <...>-11264 [007] .... 61907.098040: sched_process_fork: comm=android.youtube pid=11264 child_comm=android.youtube child_pid=16996
+           <...>-16994 [005] .... 61907.098437: sched_process_fork: comm=mdxSsdp42-1 pid=16994 child_comm=mdxSsdp42-1 child_pid=16997
+   BG Thread #15-11337 [000] d..1 61907.100593: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #15 pid=11337 grp=0 res=0
+   BG Thread #15-11337 [000] d..1 61907.100606: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+     mdxSsdp41-1-16996 [005] .... 61907.101157: sched_process_fork: comm=mdxSsdp41-1 pid=16996 child_comm=mdxSsdp41-1 child_pid=16998
+     mdxSsdp41-1-16996 [005] .... 61907.101577: sched_process_fork: comm=mdxSsdp41-1 pid=16996 child_comm=mdxSsdp41-1 child_pid=16999
+           <...>-16992 [007] .... 61907.103008: sched_process_fork: comm=ScionFrontendAp pid=16992 child_comm=ScionFrontendAp child_pid=17000
+           <...>-11279 [006] d..1 61907.112056: signal_generate: sig=11 errno=0 code=1 comm=GoogleApiHandle pid=11279 grp=0 res=0
+           <...>-11279 [006] d..1 61907.112065: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11350 [004] d..1 61907.135087: signal_generate: sig=11 errno=0 code=1 comm=ExoPlayer:Playb pid=11350 grp=0 res=0
+           <...>-11350 [004] d..1 61907.135102: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-1577  [004] d..1 61907.140241: signal_generate: sig=11 errno=0 code=1 comm=AccountManagerS pid=1577 grp=0 res=0
+           <...>-1577  [004] d..1 61907.140252: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-2890  [006] d..1 61907.187212: signal_generate: sig=11 errno=0 code=1 comm=binder:1477_F pid=2890 grp=0 res=0
+           <...>-2890  [006] d..1 61907.187221: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+  Lite Thread #1-11317 [003] d..1 61907.221848: signal_generate: sig=11 errno=0 code=1 comm=Lite Thread #1 pid=11317 grp=0 res=0
+  Lite Thread #1-11317 [003] d..1 61907.221861: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-1519  [002] d..1 61907.232159: signal_generate: sig=11 errno=0 code=1 comm=ActivityManager pid=1519 grp=0 res=0
+           <...>-1519  [002] d..1 61907.232169: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+            main-751   [006] .... 61907.248092: sched_process_fork: comm=main pid=751 child_comm=main child_pid=17001
+    BG Thread #8-11330 [004] d..1 61907.262261: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #8 pid=11330 grp=0 res=0
+    BG Thread #8-11330 [004] d..1 61907.262271: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+ .apps.wellbeing-17001 [006] .... 61907.264142: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17002
+ .apps.wellbeing-17001 [003] .... 61907.265617: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17003
+ .apps.wellbeing-17001 [006] .... 61907.267510: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17004
+ .apps.wellbeing-17001 [006] .... 61907.267866: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17005
+ .apps.wellbeing-17001 [006] .... 61907.268061: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17006
+ .apps.wellbeing-17001 [006] .... 61907.268163: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17007
+ .apps.wellbeing-17001 [000] .... 61907.268358: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17008
+ .apps.wellbeing-17001 [005] .... 61907.272960: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17009
+           <...>-17009 [004] .... 61907.273619: sched_process_fork: comm=binder:17001_1 pid=17009 child_comm=binder:17001_1 child_pid=17010
+  binder:17001_2-17010 [000] .... 61907.282615: sched_process_fork: comm=binder:17001_2 pid=17010 child_comm=binder:17001_2 child_pid=17011
+           <...>-11429 [002] d..1 61907.292100: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp9-1 pid=11429 grp=0 res=0
+           <...>-11429 [002] d..1 61907.292121: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11432 [000] d..1 61907.295873: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp9-3 pid=11432 grp=0 res=0
+           <...>-11432 [000] d..1 61907.295885: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11431 [004] d..1 61907.296087: signal_generate: sig=11 errno=0 code=1 comm=mdxSsdp9-2 pid=11431 grp=0 res=0
+           <...>-11431 [004] d..1 61907.296094: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+     FramePolicy-11356 [005] d..1 61907.305129: signal_generate: sig=11 errno=0 code=1 comm=FramePolicy pid=11356 grp=0 res=0
+     FramePolicy-11356 [005] d..1 61907.305137: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-2026  [000] .... 61907.320764: sched_process_fork: comm=binder:1477_9 pid=2026 child_comm=binder:1477_9 child_pid=17012
+ .apps.wellbeing-17001 [006] .... 61907.321777: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17013
+  binder:17001_3-17011 [002] d..1 61907.345966: signal_generate: sig=11 errno=0 code=1 comm=binder:17001_3 pid=17011 grp=0 res=0
+           <...>-17011 [002] d..1 61907.345976: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17001 [006] d..1 61907.347278: signal_generate: sig=11 errno=0 code=1 comm=.apps.wellbeing pid=17001 grp=0 res=0
+           <...>-17001 [006] d..1 61907.347285: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11386 [003] d..1 61907.347724: signal_generate: sig=11 errno=0 code=1 comm=hwuiTask0 pid=11386 grp=0 res=0
+           <...>-11386 [003] d..1 61907.347732: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17001 [006] d..1 61907.351563: signal_generate: sig=11 errno=0 code=1 comm=.apps.wellbeing pid=17001 grp=0 res=0
+           <...>-17001 [006] d..1 61907.351569: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17001 [006] .... 61907.356707: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17014
+           <...>-11305 [007] d..1 61907.356892: signal_generate: sig=11 errno=0 code=1 comm=RenderThread pid=11305 grp=0 res=0
+           <...>-11305 [007] d..1 61907.356898: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-6604  [000] .... 61907.365284: sched_process_fork: comm=binder:6469_5 pid=6604 child_comm=binder:6469_5 child_pid=17015
+           <...>-11387 [000] d..1 61907.365642: signal_generate: sig=11 errno=0 code=1 comm=hwuiTask1 pid=11387 grp=0 res=0
+           <...>-11387 [000] d..1 61907.365652: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17011 [005] d..1 61907.372839: signal_generate: sig=11 errno=0 code=1 comm=binder:17001_3 pid=17011 grp=0 res=0
+           <...>-17011 [005] d..1 61907.372908: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17001 [001] .... 61907.377381: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17016
+           <...>-17011 [002] .... 61907.378662: sched_process_fork: comm=binder:17001_3 pid=17011 child_comm=binder:17001_3 child_pid=17017
+           <...>-17011 [002] .... 61907.379782: sched_process_fork: comm=binder:17001_3 pid=17011 child_comm=binder:17001_3 child_pid=17018
+           <...>-17001 [001] .... 61907.381089: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17019
+           <...>-17011 [004] d..1 61907.388475: signal_generate: sig=11 errno=0 code=1 comm=binder:17001_3 pid=17011 grp=0 res=0
+           <...>-17011 [004] d..1 61907.388488: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17394 [007] .... 61907.391949: sched_process_fork: comm=highpool[29] pid=17394 child_comm=highpool[29] child_pid=17020
+           <...>-17020 [007] .... 61907.394188: sched_process_fork: comm=lowpool[436] pid=17020 child_comm=lowpool[436] child_pid=17021
+           <...>-17001 [007] .... 61907.409285: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17022
+           <...>-17001 [006] .... 61907.414389: sched_process_fork: comm=.apps.wellbeing pid=17001 child_comm=.apps.wellbeing child_pid=17023
+           <...>-17001 [006] d..1 61907.415110: signal_generate: sig=11 errno=0 code=1 comm=.apps.wellbeing pid=17001 grp=0 res=0
+           <...>-17001 [006] d..1 61907.415117: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17018 [002] d..1 61907.416928: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #1 pid=17018 grp=0 res=0
+           <...>-17018 [002] d..1 61907.416939: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-1621  [004] d..1 61907.439442: signal_generate: sig=11 errno=0 code=1 comm=ConnectivitySer pid=1621 grp=0 res=0
+           <...>-1621  [004] d..1 61907.439454: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-16289 [002] .... 61907.440981: sched_process_exit: comm=pool-652-thread pid=16289 prio=120
+           <...>-17023 [006] d..1 61907.465303: signal_generate: sig=11 errno=0 code=1 comm=GoogleApiHandle pid=17023 grp=0 res=0
+           <...>-17023 [006] d..1 61907.465313: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17018 [003] .... 61907.465691: sched_process_fork: comm=BG Thread #1 pid=17018 child_comm=BG Thread #1 child_pid=17024
+           <...>-17018 [003] .... 61907.467202: sched_process_fork: comm=BG Thread #1 pid=17018 child_comm=BG Thread #1 child_pid=17025
+           <...>-17009 [001] d..1 61907.469563: signal_generate: sig=11 errno=0 code=1 comm=binder:17001_1 pid=17009 grp=0 res=0
+           <...>-17009 [001] d..1 61907.469577: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17022 [005] d..1 61907.473634: signal_generate: sig=11 errno=0 code=1 comm=Blocking Thread pid=17022 grp=0 res=0
+           <...>-17023 [006] d..1 61907.473644: signal_generate: sig=11 errno=0 code=1 comm=GoogleApiHandle pid=17023 grp=0 res=0
+           <...>-17022 [005] d..1 61907.473649: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17023 [006] d..1 61907.473651: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17011 [007] .... 61907.479580: sched_process_fork: comm=binder:17001_3 pid=17011 child_comm=binder:17001_3 child_pid=17026
+           <...>-1624  [007] .... 61907.497449: sched_process_fork: comm=NsdService pid=1624 child_comm=NsdService child_pid=17027
+           <...>-17009 [000] .... 61907.529734: sched_process_fork: comm=binder:17001_1 pid=17009 child_comm=binder:17001_1 child_pid=17028
+           <...>-17010 [000] d..1 61907.530134: signal_generate: sig=11 errno=0 code=1 comm=binder:17001_2 pid=17010 grp=0 res=0
+           <...>-17010 [000] d..1 61907.530144: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17011 [007] .... 61907.542893: sched_process_fork: comm=binder:17001_3 pid=17011 child_comm=binder:17001_3 child_pid=17029
+           <...>-17023 [006] .... 61907.551076: sched_process_fork: comm=GoogleApiHandle pid=17023 child_comm=GoogleApiHandle child_pid=17030
+           <...>-17029 [003] .... 61907.575063: sched_process_fork: comm=Lite Thread #0 pid=17029 child_comm=Lite Thread #0 child_pid=17031
+           <...>-17010 [007] .... 61907.587914: sched_process_fork: comm=binder:17001_2 pid=17010 child_comm=binder:17001_2 child_pid=17032
+           <...>-17029 [006] .... 61907.641125: sched_process_fork: comm=Lite Thread #0 pid=17029 child_comm=Lite Thread #0 child_pid=17033
+           <...>-17029 [006] .... 61907.646630: sched_process_fork: comm=Lite Thread #0 pid=17029 child_comm=Lite Thread #0 child_pid=17034
+           <...>-17033 [007] .... 61907.646667: sched_process_fork: comm=Lite Thread #1 pid=17033 child_comm=Lite Thread #1 child_pid=17035
+           <...>-17029 [006] .... 61907.646792: sched_process_fork: comm=Lite Thread #0 pid=17029 child_comm=Lite Thread #0 child_pid=17036
+           <...>-17029 [006] .... 61907.646906: sched_process_fork: comm=Lite Thread #0 pid=17029 child_comm=Lite Thread #0 child_pid=17037
+           <...>-17018 [002] d..1 61907.654183: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #1 pid=17018 grp=0 res=0
+           <...>-17018 [002] d..1 61907.654194: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17026 [002] d..1 61907.660682: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #3 pid=17026 grp=0 res=0
+           <...>-17026 [002] d..1 61907.660692: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11391 [007] d..1 61907.697559: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=11391 grp=0 res=0
+           <...>-11391 [007] d..1 61907.697566: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11389 [007] d..1 61907.699058: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=11389 grp=0 res=0
+           <...>-11389 [007] d..1 61907.699064: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11383 [006] d..1 61907.699152: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=11383 grp=0 res=0
+           <...>-11383 [006] d..1 61907.699155: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11385 [002] d..1 61907.702038: signal_generate: sig=11 errno=0 code=1 comm=glide-source-th pid=11385 grp=0 res=0
+           <...>-11385 [002] d..1 61907.702048: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11390 [000] d..1 61907.707404: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=11390 grp=0 res=0
+           <...>-11390 [000] d..1 61907.707415: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11341 [005] d..1 61907.707557: signal_generate: sig=11 errno=0 code=1 comm=ComponentLayout pid=11341 grp=0 res=0
+           <...>-11341 [005] d..1 61907.707563: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11370 [001] .... 61907.759331: sched_process_fork: comm=binder:11264_5 pid=11370 child_comm=binder:11264_5 child_pid=17038
+           <...>-11442 [003] .... 61907.759774: sched_process_fork: comm=background-6 pid=11442 child_comm=background-6 child_pid=17039
+           <...>-11442 [000] .... 61907.760606: sched_process_fork: comm=background-6 pid=11442 child_comm=background-6 child_pid=17040
+           <...>-11416 [004] d..1 61907.768050: signal_generate: sig=11 errno=0 code=1 comm=CsiReporter-0 pid=11416 grp=0 res=0
+           <...>-11416 [004] d..1 61907.768062: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-977   [005] .... 61908.313950: sched_process_fork: comm=netd pid=977 child_comm=netd child_pid=17041
+           <...>-17041 [006] .... 61908.314914: sched_process_fork: comm=Dns_107_10194 pid=17041 child_comm=Dns_107_10194 child_pid=17042
+           <...>-17041 [006] .... 61908.315006: sched_process_fork: comm=Dns_107_10194 pid=17041 child_comm=Dns_107_10194 child_pid=17043
+           <...>-5467  [004] .... 61908.318230: sched_process_fork: comm=DefaultDispatch pid=5467 child_comm=DefaultDispatch child_pid=17044
+           <...>-5467  [004] .... 61908.320504: sched_process_fork: comm=DefaultDispatch pid=5467 child_comm=DefaultDispatch child_pid=17045
+           <...>-11384 [001] d..1 61908.345744: signal_generate: sig=11 errno=0 code=1 comm=SurfaceSyncGrou pid=11384 grp=0 res=0
+           <...>-11384 [001] d..1 61908.345757: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-17042 [000] .... 61908.368530: sched_process_exit: comm=Dns_107_10194 pid=17042 prio=120
+           <...>-17043 [002] .... 61908.368777: sched_process_exit: comm=Dns_107_10194 pid=17043 prio=120
+           <...>-17041 [006] .... 61908.369394: sched_process_exit: comm=Dns_107_10194 pid=17041 prio=120
+           <...>-1595  [004] d..1 61908.369702: signal_generate: sig=11 errno=0 code=1 comm=NetworkWatchlis pid=1595 grp=0 res=0
+           <...>-1595  [004] d..1 61908.369712: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11331 [007] d..1 61908.708718: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #10 pid=11331 grp=0 res=0
+           <...>-11331 [007] d..1 61908.708728: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11283 [006] d..1 61908.708910: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #1 pid=11283 grp=0 res=0
+           <...>-11283 [006] d..1 61908.708917: signal_deliver: sig=11 errno=0 code=1 sa_handler=7e82171ef8 sa_flags=18000c04
+           <...>-11295 [000] d..1 61908.708946: signal_generate: sig=11 errno=0 code=1 comm=BG Thread #3 pid=11295 grp=0 res=0
